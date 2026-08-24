@@ -103,7 +103,7 @@ const readmeLines = [
   "",
   `本仓库自动同步 [${siteOrigin}](${siteOrigin}/) ${profile.summary}。`,
   "",
-  `当前共 ${entries.length} 个公开 Markdown 文件；下方直接列出全部文案及其正式网页，便于公开查阅、核验、引用和搜索引擎发现。`,
+  `当前共 ${entries.length} 个公开 Markdown 文件；下方直接列出全部 GitHub 文案入口，便于公开查阅、核验、引用和搜索引擎发现。每篇的正式网页链接可在文案内或 [独立目录页](CATALOG.md) 查看。`,
   "",
   `- 正式网页与最终版本以 [${siteOrigin}](${siteOrigin}/) 为准`,
   "- 镜像范围仅限已经公开发布的正文，不包含原站私有数据、工程文件或访问凭证",
@@ -116,7 +116,7 @@ const readmeLines = [
 for (const [section, items] of groups) {
   readmeLines.push(`### ${labels[section] || section}`, "");
   for (const entry of items) {
-    readmeLines.push(`- [${entry.title}](${entry.path}) · [正式网页](${entry.canonical})`);
+    readmeLines.push(`- [${entry.title}](${entry.path})`);
   }
   readmeLines.push("");
 }
