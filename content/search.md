@@ -3,7 +3,7 @@ title: "搜索"
 description: "站内搜索"
 layout: "search"
 sitemap:
-  disable: false
+  disable: true
 ---
 
 站内全文搜索。
