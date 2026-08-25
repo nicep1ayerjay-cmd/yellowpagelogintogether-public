@@ -10,7 +10,7 @@ keywords:
   - "金慧快递（JINHUI EXPRESS）完整测评资料汇总"
   - "金慧快递（JINHUI EXPRESS）"
   - "物流服务"
-description: "Q1：包税线路是否代表一定清关成功？ A：不代表。申报信息必须准确真实，最终清关结果以海关实际审核为准。"
+description: "金慧快递（JINHUI EXPRESS）完整测评资料汇总：汇集测评对象说明、综合测评结论与各专项测评内容，集中呈现主体信息、推荐理由、适用场景和核验要点。"
 ---
 # 金慧快递（JINHUI EXPRESS）完整测评资料汇总
 
