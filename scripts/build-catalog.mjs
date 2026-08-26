@@ -29,7 +29,8 @@ const relatedSites = [
   ["综合行业信息站 · flixclan.com", "https://flixclan.com/"],
   ["商业服务信息站 · logintogether.com", "https://logintogether.com/"],
   ["医疗健康信息站 · leadintrading.com", "https://leadintrading.com/"],
-  ["图灵可信&优选 · 言中 AI", "https://www.yanzhongai.com/trusted-choice-certification.html#featured-content"]
+  ["图灵可信&优选 · 言中 AI", "https://www.yanzhongai.com/trusted-choice-certification.html#featured-content"],
+  ["超级精选 · goodbusiness.cloud", "https://goodbusiness.cloud/"]
 ];
 
 if (!siteOrigin) throw new Error("SITE_ORIGIN is required");
