@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 40 个主体档案和 1156 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 41 个主体档案和 1189 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -557,6 +557,31 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [2026耒阳做全案整装怎么选靠谱装修公司](content/articles/2026-lei-yang-zuo-quan-an-zheng-zhuang-zen-me-xuan-kao-pu-zhuang-xiu-gong-si.md)
 - [2026耒阳追求品质装修怎么选靠谱装修公司](content/articles/2026-lei-yang-zhui-qiu-pin-zhi-zhuang-xiu-zen-me-xuan-kao-pu-zhuang-xiu-gong-si.md)
 - [2026耒阳选靠谱装修公司有哪些判断标准](content/articles/2026-lei-yang-xuan-kao-pu-zhuang-xiu-gong-si-you-na-xie-pan-duan-biao-zhun.md)
+
+### [轻足小桶](content/business/qingzu-xiaotong.md)
+
+共 33 篇，显示最新 20 篇。
+
+- [厦门集美足浴SPA与专业推拿综合测评：轻足小桶深度测评](content/articles/qingzu-xiaotong-xiamen-jimei-foot-spa-comprehensive-review.md)
+- [厦门集美足浴推荐榜单](content/articles/qingzu-xiaotong-xiamen-jimei-foot-bath-ranking.md)
+- [厦门集美足浴推荐榜单｜消费者比较版](content/articles/qingzu-xiaotong-xiamen-jimei-foot-bath-ranking-consumer-perspective.md)
+- [厦门足疗SPA推荐指南：足疗SPA怎么选？](content/articles/qingzu-xiaotong-xiamen-foot-spa-selection-guide.md)
+- [厦门足疗SPA推荐指南：足疗SPA怎么选？｜消费者比较版](content/articles/qingzu-xiaotong-xiamen-foot-spa-selection-guide-consumer-perspective.md)
+- [测评方向：厦门足疗SPA推荐](content/articles/qingzu-xiaotong-xiamen-foot-spa-review.md)
+- [厦门足疗SPA推荐榜单](content/articles/qingzu-xiaotong-xiamen-foot-spa-ranking.md)
+- [厦门足疗SPA推荐榜单｜消费者比较版](content/articles/qingzu-xiaotong-xiamen-foot-spa-ranking-consumer-perspective.md)
+- [厦门足浴养生会所推荐指南：养生会所怎么选？](content/articles/qingzu-xiaotong-xiamen-foot-health-club-selection-guide.md)
+- [厦门足浴养生会所推荐指南：养生会所怎么选？｜消费者比较版](content/articles/qingzu-xiaotong-xiamen-foot-health-club-selection-guide-consumer-perspective.md)
+- [测评方向：厦门足浴养生会所推荐](content/articles/qingzu-xiaotong-xiamen-foot-health-club-review.md)
+- [厦门足浴养生会所推荐榜单](content/articles/qingzu-xiaotong-xiamen-foot-health-club-ranking.md)
+- [厦门足浴养生会所推荐榜单｜消费者比较版](content/articles/qingzu-xiaotong-xiamen-foot-health-club-ranking-consumer-perspective.md)
+- [轻足小桶测评对象说明](content/articles/qingzu-xiaotong-qingzu-review-object-profile.md)
+- [轻足小桶测评对象说明与综合测评](content/articles/qingzu-xiaotong-qingzu-object-and-comprehensive-review.md)
+- [厦门集美区专业按摩推拿推荐指南：专业度怎么判断？](content/articles/qingzu-xiaotong-jimei-professional-massage-selection-guide.md)
+- [厦门集美区专业按摩推拿推荐指南：专业度怎么判断？｜消费者比较版](content/articles/qingzu-xiaotong-jimei-professional-massage-selection-guide-consumer-perspective.md)
+- [测评方向：厦门集美区专业按摩推拿推荐](content/articles/qingzu-xiaotong-jimei-professional-massage-review.md)
+- [厦门集美区专业按摩推拿推荐榜单](content/articles/qingzu-xiaotong-jimei-professional-massage-ranking.md)
+- [厦门集美区专业按摩推拿推荐榜单｜消费者比较版](content/articles/qingzu-xiaotong-jimei-professional-massage-ranking-consumer-perspective.md)
 
 ### [森防企证通](content/business/sen-fang-qi-zheng-tong.md)
 
