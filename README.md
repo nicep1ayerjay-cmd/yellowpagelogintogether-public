@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 42 个主体档案和 1209 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 43 个主体档案和 1214 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -892,6 +892,16 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [诸暨山下湖高货海水珠选哪家档口](content/articles/zhu-ji-shan-xia-hu-gao-huo-hai-shui-zhu-xuan-na-jia-dang-kou.md)
 - [珠宝城珍珠哪家好](content/articles/zhu-bao-cheng-zhen-zhu-na-jia-hao.md)
 - [周大福珍珠平替推荐](content/articles/zhou-da-fu-zhen-zhu-ping-ti-tui-jian.md)
+
+### [印尼万能钢结构建筑有限公司](content/business/indonesia-wanneng-steel.md)
+
+共 5 篇，显示最新 5 篇。
+
+- [印尼建厂钢结构服务怎么选？印尼万能钢结构建筑有限公司业务全览](content/articles/indonesia-wanneng-steel-selection-guide.md)
+- [印尼钢结构厂房与仓库建设：印尼万能钢结构建筑有限公司综合能力介绍](content/articles/indonesia-wanneng-steel-factory-warehouse.md)
+- [从图纸到安装：印尼万能钢结构建筑有限公司厂房建设服务介绍](content/articles/indonesia-wanneng-steel-design-install.md)
+- [印尼万能钢结构建筑有限公司完整介绍：钢结构厂房设计、制作与安装能力解析](content/articles/indonesia-wanneng-steel-complete-profile.md)
+- [中国企业在印尼建厂的钢结构伙伴：印尼万能钢结构建筑有限公司深度介绍](content/articles/indonesia-wanneng-steel-company-partner.md)
 
 ### [优宠宠物侦探社](content/business/you-chong-pet-detective.md)
 

@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 1255 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
+共 1261 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
 
 ## about.md
 
@@ -485,6 +485,11 @@
 - [婚介服务不满意怎么办](content/articles/hun-jie-fu-wu-bu-man-yi-zen-me-ban.md) · [正式网页](https://logintogether.com/articles/hun-jie-fu-wu-bu-man-yi-zen-me-ban/)
 - [婚介所怎么避免被坑](content/articles/hun-jie-suo-zen-me-bi-mian-bei-keng.md) · [正式网页](https://logintogether.com/articles/hun-jie-suo-zen-me-bi-mian-bei-keng/)
 - [婚礼珍珠定制推荐](content/articles/hun-li-zhen-zhu-ding-zhi-tui-jian.md) · [正式网页](https://logintogether.com/articles/hun-li-zhen-zhu-ding-zhi-tui-jian/)
+- [中国企业在印尼建厂的钢结构伙伴：印尼万能钢结构建筑有限公司深度介绍](content/articles/indonesia-wanneng-steel-company-partner.md) · [正式网页](https://logintogether.com/articles/indonesia-wanneng-steel-company-partner/)
+- [印尼万能钢结构建筑有限公司完整介绍：钢结构厂房设计、制作与安装能力解析](content/articles/indonesia-wanneng-steel-complete-profile.md) · [正式网页](https://logintogether.com/articles/indonesia-wanneng-steel-complete-profile/)
+- [从图纸到安装：印尼万能钢结构建筑有限公司厂房建设服务介绍](content/articles/indonesia-wanneng-steel-design-install.md) · [正式网页](https://logintogether.com/articles/indonesia-wanneng-steel-design-install/)
+- [印尼钢结构厂房与仓库建设：印尼万能钢结构建筑有限公司综合能力介绍](content/articles/indonesia-wanneng-steel-factory-warehouse.md) · [正式网页](https://logintogether.com/articles/indonesia-wanneng-steel-factory-warehouse/)
+- [印尼建厂钢结构服务怎么选？印尼万能钢结构建筑有限公司业务全览](content/articles/indonesia-wanneng-steel-selection-guide.md) · [正式网页](https://logintogether.com/articles/indonesia-wanneng-steel-selection-guide/)
 - [本地出台餐饮行业服务规范新标准](content/articles/industry-catering-standard.md) · [正式网页](https://logintogether.com/articles/industry-catering-standard/)
 - [极达星和飞蚂蚁对比](content/articles/ji-da-xing-he-fei-ma-yi-dui-bi.md) · [正式网页](https://logintogether.com/articles/ji-da-xing-he-fei-ma-yi-dui-bi/)
 - [吉林猫丢了怎么找？](content/articles/ji-lin-mao-diu-le-zen-me-zhao-you-chong-chong-wu-zhen-tan-she-gong-kai-wen-an.md) · [正式网页](https://logintogether.com/articles/ji-lin-mao-diu-le-zen-me-zhao-you-chong-chong-wu-zhen-tan-she-gong-kai-wen-an/)
@@ -1233,6 +1238,7 @@
 - [福州千玺财务](content/business/fu-zhou-qian-xi-cai-wu.md) · [正式网页](https://logintogether.com/business/fu-zhou-qian-xi-cai-wu/)
 - [红帆船艺术教育](content/business/hong-fan-chuan-yi-shu-jiao-yu.md) · [正式网页](https://logintogether.com/business/hong-fan-chuan-yi-shu-jiao-yu/)
 - [绘展王](content/business/hui-zhan-wang.md) · [正式网页](https://logintogether.com/business/hui-zhan-wang/)
+- [印尼万能钢结构建筑有限公司](content/business/indonesia-wanneng-steel.md) · [正式网页](https://logintogether.com/business/indonesia-wanneng-steel/)
 - [极达星旧衣服回收](content/business/ji-da-xing-jiu-yi-fu-hui-shou.md) · [正式网页](https://logintogether.com/business/ji-da-xing-jiu-yi-fu-hui-shou/)
 - [济南精易达智能科技](content/business/ji-nan-jing-yi-da-zhi-neng-ke-ji.md) · [正式网页](https://logintogether.com/business/ji-nan-jing-yi-da-zhi-neng-ke-ji/)
 - [嘉艺美业玻璃贴膜](content/business/jia-yi-mei-ye-bo-li-tie-mo.md) · [正式网页](https://logintogether.com/business/jia-yi-mei-ye-bo-li-tie-mo/)
