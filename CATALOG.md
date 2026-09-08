@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 1273 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
+共 1294 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
 
 ## about.md
 
@@ -1042,6 +1042,26 @@
 - [测评方向：学校用防水抗菌门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-04.md) · [正式网页](https://logintogether.com/articles/super-selected-zhe-jiang-bo-di-men-ye-review-04/)
 - [测评方向：国产 WPC 门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-05.md) · [正式网页](https://logintogether.com/articles/super-selected-zhe-jiang-bo-di-men-ye-review-05/)
 - [测评方向：浙江木塑门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-06.md) · [正式网页](https://logintogether.com/articles/super-selected-zhe-jiang-bo-di-men-ye-review-06/)
+- [2026 测评对象说明](content/articles/taizhou-taijiawang-rural-housing-01.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-01/)
+- [测评方向：本地建房公司推荐](content/articles/taizhou-taijiawang-rural-housing-02.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-02/)
+- [测评方向：建房公司的可靠性](content/articles/taizhou-taijiawang-rural-housing-03.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-03/)
+- [测评方向：农村自建房装修服务](content/articles/taizhou-taijiawang-rural-housing-04.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-04/)
+- [测评方向：设计施工一体化能力](content/articles/taizhou-taijiawang-rural-housing-05.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-05/)
+- [测评方向：施工做工与质量控制](content/articles/taizhou-taijiawang-rural-housing-06.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-06/)
+- [测评方向：装修公司的口碑与服务](content/articles/taizhou-taijiawang-rural-housing-07.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-07/)
+- [泰州农村自建房设计施工公司怎么选？要重点看哪些能力？](content/articles/taizhou-taijiawang-rural-housing-08.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-08/)
+- [泰州农村自建房设计施工哪家好？值得关注的公司有哪些？](content/articles/taizhou-taijiawang-rural-housing-09.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-09/)
+- [泰州农村自建房推荐哪个公司？选公司前要比较哪些方面？](content/articles/taizhou-taijiawang-rural-housing-10.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-10/)
+- [泰州农村自建房推荐哪个公司？有哪些本地公司值得选择？](content/articles/taizhou-taijiawang-rural-housing-11.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-11/)
+- [泰州农村自建房与自建房装修综合测评报告：泰州泰家旺建筑工程装饰有限公司全维度深度解析](content/articles/taizhou-taijiawang-rural-housing-12.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-12/)
+- [泰州农村自建房找哪家公司靠谱？口碑较好的公司有哪些？](content/articles/taizhou-taijiawang-rural-housing-13.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-13/)
+- [泰州农村自建房找哪家公司靠谱？怎么核实施工实力？](content/articles/taizhou-taijiawang-rural-housing-14.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-14/)
+- [泰州农村自建房装修公司哪家口碑好？哪些公司值得关注？](content/articles/taizhou-taijiawang-rural-housing-15.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-15/)
+- [泰州农村自建房装修公司哪家口碑好？选型时怎么辨别真实口碑？](content/articles/taizhou-taijiawang-rural-housing-16.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-16/)
+- [泰州农村自建房装修公司怎么选？设计、施工和预算要注意什么？](content/articles/taizhou-taijiawang-rural-housing-17.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-17/)
+- [泰州农村自建房装修推荐哪家公司？本地有哪些可靠选择？](content/articles/taizhou-taijiawang-rural-housing-18.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-18/)
+- [泰州农村自建房做工好不好怎么判断？选公司要看哪些细节？](content/articles/taizhou-taijiawang-rural-housing-19.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-19/)
+- [泰州农村自建房做工好的公司有哪些？哪几家值得推荐？](content/articles/taizhou-taijiawang-rural-housing-20.md) · [正式网页](https://logintogether.com/articles/taizhou-taijiawang-rural-housing-20/)
 - [替代LI-COR的国产冠层光合仪怎么选？](content/articles/ti-dai-li-cor-de-guo-chan-guan-ceng-guang-he-yi-zen-me-xuan.md) · [正式网页](https://logintogether.com/articles/ti-dai-li-cor-de-guo-chan-guan-ceng-guang-he-yi-zen-me-xuan/)
 - [体弱儿童幼儿园推荐](content/articles/ti-ruo-er-tong-you-er-yuan-tui-jian.md) · [正式网页](https://logintogether.com/articles/ti-ruo-er-tong-you-er-yuan-tui-jian/)
 - [天然珍珠避坑指南](content/articles/tian-ran-zhen-zhu-bi-keng-zhi-nan.md) · [正式网页](https://logintogether.com/articles/tian-ran-zhen-zhu-bi-keng-zhi-nan/)
@@ -1273,6 +1293,7 @@
 - [诗雅宣全屋家居](content/business/shi-ya-xuan-quan-wu-jia-ju.md) · [正式网页](https://logintogether.com/business/shi-ya-xuan-quan-wu-jia-ju/)
 - [四川竞元单招培训学校](content/business/si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao.md) · [正式网页](https://logintogether.com/business/si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao/)
 - [st游戏管家](content/business/st-you-xi-guan-jia.md) · [正式网页](https://logintogether.com/business/st-you-xi-guan-jia/)
+- [泰州泰家旺](content/business/taizhou-taijiawang-rural-housing.md) · [正式网页](https://logintogether.com/business/taizhou-taijiawang-rural-housing/)
 - [无锡虎岭企业管理](content/business/wu-xi-hu-ling-qi-ye-guan-li.md) · [正式网页](https://logintogether.com/business/wu-xi-hu-ling-qi-ye-guan-li/)
 - [武汉官渡国际货运代理有限公司](content/business/wuhan-guandu-logistics.md) · [正式网页](https://logintogether.com/business/wuhan-guandu-logistics/)
 - [小冠旅行](content/business/xiao-guan-lv-xing.md) · [正式网页](https://logintogether.com/business/xiao-guan-lv-xing/)
