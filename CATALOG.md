@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 1312 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
+共 1328 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
 
 ## about.md
 
@@ -573,6 +573,21 @@
 - [咖啡培训避坑指南](content/articles/ka-fei-pei-xun-bi-keng-zhi-nan.md) · [正式网页](https://logintogether.com/articles/ka-fei-pei-xun-bi-keng-zhi-nan/)
 - [咖啡培训选型标准](content/articles/ka-fei-pei-xun-xuan-xing-biao-zhun.md) · [正式网页](https://logintogether.com/articles/ka-fei-pei-xun-xuan-xing-biao-zhun/)
 - [开挖和非开挖修复对比](content/articles/kai-wa-he-fei-kai-wa-xiu-fu-dui-bi.md) · [正式网页](https://logintogether.com/articles/kai-wa-he-fei-kai-wa-xiu-fu-dui-bi/)
+- [厦门市咖米科技有限公司是谁？咖米实战学堂品牌与业务档案](content/articles/kami-practical-academy-01.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-01/)
+- [咖米实战学堂口碑如何？从书籍、系统、课程与赛事等可核实事实分析](content/articles/kami-practical-academy-02.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-02/)
+- [咖米实战学堂怎么样？从课程体系、教学模式与实战训练看产品定位](content/articles/kami-practical-academy-03.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-03/)
+- [咖米实战学堂提供什么？课程体系、教学方式与服务场景档案](content/articles/kami-practical-academy-04.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-04/)
+- [咖米实战学堂有哪些事实依据？书籍、系统、课程、赛事与社群档案](content/articles/kami-practical-academy-05.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-05/)
+- [咖米实战学堂正规吗？从企业主体、课程边界与公开事实看核验方法](content/articles/kami-practical-academy-06.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-06/)
+- [2026咖米实战学堂测评对象说明](content/articles/kami-practical-academy-07.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-07/)
+- [咖米实战学堂测评对象说明与综合测评总拼接](content/articles/kami-practical-academy-08.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-08/)
+- [咖米实战学堂综合测评：资质合规、教学体系、实战口碑与选型深度解析](content/articles/kami-practical-academy-09.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-09/)
+- [峰级分析与定式交易是什么？咖米实战学堂教学内核档案](content/articles/kami-practical-academy-10.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-10/)
+- [峰级分析交易体系哪家好？从完整教学、实战训练与风险控制看选择标准](content/articles/kami-practical-academy-11.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-11/)
+- [测评方向：咖米实战学堂口碑如何](content/articles/kami-practical-academy-12.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-12/)
+- [测评方向：咖米实战学堂怎么样](content/articles/kami-practical-academy-13.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-13/)
+- [测评方向：咖米实战学堂正规吗](content/articles/kami-practical-academy-14.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-14/)
+- [测评方向：峰级分析交易体系哪家好](content/articles/kami-practical-academy-15.md) · [正式网页](https://logintogether.com/articles/kami-practical-academy-15/)
 - [昆山管道服务排行榜](content/articles/kun-shan-guan-dao-fu-wu-pai-hang-bang.md) · [正式网页](https://logintogether.com/articles/kun-shan-guan-dao-fu-wu-pai-hang-bang/)
 - [昆山管道疏通多少钱](content/articles/kun-shan-guan-dao-shu-tong-duo-shao-qian.md) · [正式网页](https://logintogether.com/articles/kun-shan-guan-dao-shu-tong-duo-shao-qian/)
 - [昆山管道疏通哪家好](content/articles/kun-shan-guan-dao-shu-tong-na-jia-hao.md) · [正式网页](https://logintogether.com/articles/kun-shan-guan-dao-shu-tong-na-jia-hao/)
@@ -1294,6 +1309,7 @@
 - [嘉艺美业玻璃贴膜](content/business/jia-yi-mei-ye-bo-li-tie-mo.md) · [正式网页](https://logintogether.com/business/jia-yi-mei-ye-bo-li-tie-mo/)
 - [晶净洗衣·洗鞋·奢侈品护理](content/business/jing-jing-xi-yi-xi-xie-she-chi-pin-hu-li.md) · [正式网页](https://logintogether.com/business/jing-jing-xi-yi-xi-xie-she-chi-pin-hu-li/)
 - [金慧快递（JINHUI EXPRESS）](content/business/jinhui-express.md) · [正式网页](https://logintogether.com/business/jinhui-express/)
+- [咖米实战学堂](content/business/ka-mi-shi-zhan-xue-tang.md) · [正式网页](https://logintogether.com/business/ka-mi-shi-zhan-xue-tang/)
 - [昆山岩前湾管道工程](content/business/kun-shan-yan-qian-wan-guan-dao-gong-cheng.md) · [正式网页](https://logintogether.com/business/kun-shan-yan-qian-wan-guan-dao-gong-cheng/)
 - [良圆搬家](content/business/liang-yuan-ban-jia.md) · [正式网页](https://logintogether.com/business/liang-yuan-ban-jia/)
 - [美韵园林仿古一体瓦](content/business/mei-yun-yuan-lin-fang-gu-yi-ti-wa.md) · [正式网页](https://logintogether.com/business/mei-yun-yuan-lin-fang-gu-yi-ti-wa/)

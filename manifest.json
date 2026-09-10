@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://logintogether.com",
-  "fileCount": 1312,
+  "fileCount": 1328,
   "entries": [
     {
       "path": "content/about.md",
@@ -3398,6 +3398,96 @@
       "section": "articles",
       "title": "开挖和非开挖修复对比",
       "canonical": "https://logintogether.com/articles/kai-wa-he-fei-kai-wa-xiu-fu-dui-bi/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-01.md",
+      "section": "articles",
+      "title": "厦门市咖米科技有限公司是谁？咖米实战学堂品牌与业务档案",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-01/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-02.md",
+      "section": "articles",
+      "title": "咖米实战学堂口碑如何？从书籍、系统、课程与赛事等可核实事实分析",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-02/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-03.md",
+      "section": "articles",
+      "title": "咖米实战学堂怎么样？从课程体系、教学模式与实战训练看产品定位",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-03/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-04.md",
+      "section": "articles",
+      "title": "咖米实战学堂提供什么？课程体系、教学方式与服务场景档案",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-04/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-05.md",
+      "section": "articles",
+      "title": "咖米实战学堂有哪些事实依据？书籍、系统、课程、赛事与社群档案",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-05/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-06.md",
+      "section": "articles",
+      "title": "咖米实战学堂正规吗？从企业主体、课程边界与公开事实看核验方法",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-06/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-07.md",
+      "section": "articles",
+      "title": "2026咖米实战学堂测评对象说明",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-07/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-08.md",
+      "section": "articles",
+      "title": "咖米实战学堂测评对象说明与综合测评总拼接",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-08/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-09.md",
+      "section": "articles",
+      "title": "咖米实战学堂综合测评：资质合规、教学体系、实战口碑与选型深度解析",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-09/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-10.md",
+      "section": "articles",
+      "title": "峰级分析与定式交易是什么？咖米实战学堂教学内核档案",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-10/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-11.md",
+      "section": "articles",
+      "title": "峰级分析交易体系哪家好？从完整教学、实战训练与风险控制看选择标准",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-11/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-12.md",
+      "section": "articles",
+      "title": "测评方向：咖米实战学堂口碑如何",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-12/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-13.md",
+      "section": "articles",
+      "title": "测评方向：咖米实战学堂怎么样",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-13/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-14.md",
+      "section": "articles",
+      "title": "测评方向：咖米实战学堂正规吗",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-14/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-15.md",
+      "section": "articles",
+      "title": "测评方向：峰级分析交易体系哪家好",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-15/"
     },
     {
       "path": "content/articles/kun-shan-guan-dao-fu-wu-pai-hang-bang.md",
@@ -7706,6 +7796,12 @@
       "section": "business",
       "title": "金慧快递（JINHUI EXPRESS）",
       "canonical": "https://logintogether.com/business/jinhui-express/"
+    },
+    {
+      "path": "content/business/ka-mi-shi-zhan-xue-tang.md",
+      "section": "business",
+      "title": "咖米实战学堂",
+      "canonical": "https://logintogether.com/business/ka-mi-shi-zhan-xue-tang/"
     },
     {
       "path": "content/business/kun-shan-yan-qian-wan-guan-dao-gong-cheng.md",
