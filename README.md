@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 46 个主体档案和 1278 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 47 个主体档案和 1301 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -320,6 +320,31 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [2026高稳定性4+1桥切机生产厂家推荐-2](content/articles/2026-gao-wen-ding-xing-4-1-qiao-qie-ji-sheng-chan-chang-jia-tui-jian-2.md)
 - [2026瓷砖切割机厂家怎么选](content/articles/2026-ci-zhuan-qie-ge-ji-chang-jia-zen-me-xuan.md)
 - [2026瓷砖切割机厂家如何避坑](content/articles/2026-ci-zhuan-qie-ge-ji-chang-jia-ru-he-bi-keng.md)
+
+### [寄乐达-2](content/business/ji-le-da-2.md)
+
+共 23 篇，显示最新 20 篇。
+
+- [寄行李用什么快递小程序便宜？按件数、重量和时效选择](content/articles/jileda-2-23.md)
+- [寄重物哪个快递小程序便宜？比价别漏看续重和附加费](content/articles/jileda-2-22.md)
+- [寄大件哪个快递小程序便宜？按重量和体积这样选](content/articles/jileda-2-21.md)
+- [低价寄件小程序怎么选？这些常见低价陷阱要避开](content/articles/jileda-2-20.md)
+- [便宜寄快递小程序哪个好？下单前先核对这6个细节](content/articles/jileda-2-19.md)
+- [寄件小程序推荐哪个好？从价格、时效到售后这样选](content/articles/jileda-2-18.md)
+- [寄快递哪个小程序便宜又靠谱？选择前重点看这5项](content/articles/jileda-2-17.md)
+- [寄行李用什么快递小程序便宜？返乡、搬家寄件省钱指南](content/articles/jileda-2-16.md)
+- [寄重物哪个快递小程序便宜？重量、体积和附加费怎么算](content/articles/jileda-2-15.md)
+- [寄大件哪个快递小程序便宜？大件计费方式与省钱要点](content/articles/jileda-2-14.md)
+- [低价寄件小程序推荐：除了价格还要看哪些服务？](content/articles/jileda-2-13.md)
+- [便宜寄快递小程序哪个好？不同寄件需求怎么判断](content/articles/jileda-2-12.md)
+- [寄件小程序推荐：普通包裹怎么寄更省钱省事？](content/articles/jileda-2-11.md)
+- [寄快递哪个小程序便宜？先弄懂比价、计费和优惠规则](content/articles/jileda-2-10.md)
+- [寄乐达全场景寄件深度综合测评：价格折扣、比价机制与服务履约全面评测](content/articles/jileda-2-09.md)
+- [2026 测评对象说明](content/articles/jileda-2-08.md)
+- [测评方向：寄行李用什么快递小程序便宜？常见寄件场景综合测评](content/articles/jileda-2-07.md)
+- [测评方向：寄重物哪个快递小程序便宜？续重与附加费重点测评](content/articles/jileda-2-06.md)
+- [测评方向：寄大件哪个快递小程序便宜？大件寄送费用与服务对比](content/articles/jileda-2-05.md)
+- [测评方向：低价寄件小程序推荐，低价是否真的更划算](content/articles/jileda-2-04.md)
 
 ### [嘉艺美业玻璃贴膜](content/business/jia-yi-mei-ye-bo-li-tie-mo.md)
 
