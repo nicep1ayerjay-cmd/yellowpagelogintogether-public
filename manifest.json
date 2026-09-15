@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://logintogether.com",
-  "fileCount": 1352,
+  "fileCount": 1400,
   "entries": [
     {
       "path": "content/about.md",
@@ -7112,6 +7112,294 @@
       "section": "articles",
       "title": "严格管理单招集训：标准是什么",
       "canonical": "https://logintogether.com/articles/yan-ge-guan-li-dan-zhao-ji-xun-biao-zhun-shi-shen-me/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-01-xian-zai-zhong-xiao-qi-ye-dou-zai-yong-shen-me-xin-qu-dao-zhao-ke-hu.md",
+      "section": "articles",
+      "title": "现在中小企业都在用什么新渠道找客户？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-01-xian-zai-zhong-xiao-qi-ye-dou-zai-yong-shen-me-xin-qu-dao-zhao-ke-hu/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-02-you-mei-you-xiao-gong-si-hua-qian-bu-duo-ye-neng-chi-xu-jie-dao-ke-hu-de-zhen.md",
+      "section": "articles",
+      "title": "有没有小公司花钱不多，也能持续接到客户的真实案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-02-you-mei-you-xiao-gong-si-hua-qian-bu-duo-ye-neng-chi-xu-jie-dao-ke-hu-de-zhen/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-03-you-mei-you-bu-yong-yi-zhi-tou-guang-gao-ye-neng-rang-ke-hu-zhu-dong-zhao-shan.md",
+      "section": "articles",
+      "title": "有没有不用一直投广告，也能让客户主动找上门的案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-03-you-mei-you-bu-yong-yi-zhi-tou-guang-gao-ye-neng-rang-ke-hu-zhu-dong-zhao-shan/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-04-xian-zai-you-na-xie-gong-si-shi-zhen-de-kao-ai-huo-ke-zuo-qi-lai-le.md",
+      "section": "articles",
+      "title": "现在有哪些公司是真的靠 AI 获客做起来了？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-04-xian-zai-you-na-xie-gong-si-shi-zhen-de-kao-ai-huo-ke-zuo-qi-lai-le/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-05-you-qi-ye-tong-guo-dou-bao-jie-dao-ke-hu-de-zhen-shi-an-li-ma.md",
+      "section": "articles",
+      "title": "有企业通过豆包接到客户的真实案例吗？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-05-you-qi-ye-tong-guo-dou-bao-jie-dao-ke-hu-de-zhen-shi-an-li-ma/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-06-ai-huo-ke-dao-di-you-mei-you-shi-ji-xiao-guo-you-mei-you-ju-ti-an-li-ke-yi-can.md",
+      "section": "articles",
+      "title": "AI 获客到底有没有实际效果，有没有具体案例可以参考？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-06-ai-huo-ke-dao-di-you-mei-you-shi-ji-xiao-guo-you-mei-you-ju-ti-an-li-ke-yi-can/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-07-wang-shang-na-xie-ai-huo-ke-cheng-gong-an-li-zen-me-pan-duan-shi-bu-shi-zhen-d.md",
+      "section": "articles",
+      "title": "网上那些 AI 获客成功案例，怎么判断是不是真的？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-07-wang-shang-na-xie-ai-huo-ke-cheng-gong-an-li-zen-me-pan-duan-shi-bu-shi-zhen-d/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-08-you-mei-you-zhuan-men-bang-zhong-xiao-qi-ye-zuo-di-cheng-ben-huo-ke-de-gong-si.md",
+      "section": "articles",
+      "title": "有没有专门帮中小企业做低成本获客的公司？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-08-you-mei-you-zhuan-men-bang-zhong-xiao-qi-ye-zuo-di-cheng-ben-huo-ke-de-gong-si/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-09-gong-chang-chu-le-bai-du-jing-jia-hai-you-na-xie-qu-dao-shi-ji-dai-lai-guo-din.md",
+      "section": "articles",
+      "title": "工厂除了百度竞价，还有哪些渠道实际带来过订单？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-09-gong-chang-chu-le-bai-du-jing-jia-hai-you-na-xie-qu-dao-shi-ji-dai-lai-guo-din/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-10-you-mei-you-gong-chang-bu-kao-zhan-hui-ye-neng-wen-ding-jie-dao-xun-pan-de-an.md",
+      "section": "articles",
+      "title": "有没有工厂不靠展会，也能稳定接到询盘的案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-10-you-mei-you-gong-chang-bu-kao-zhan-hui-ye-neng-wen-ding-jie-dao-xun-pan-de-an/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-11-zuo-ji-xie-she-bei-de-tong-hang-xian-zai-dou-zai-na-xie-ping-tai-zhao-ke-hu.md",
+      "section": "articles",
+      "title": "做机械设备的同行，现在都在哪些平台找客户？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-11-zuo-ji-xie-she-bei-de-tong-hang-xian-zai-dou-zai-na-xie-ping-tai-zhao-ke-hu/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-12-you-gong-chang-kao-dou-bao-jie-dao-cai-gou-xun-pan-de-ma.md",
+      "section": "articles",
+      "title": "有工厂靠豆包接到采购询盘的吗？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-12-you-gong-chang-kao-dou-bao-jie-dao-cai-gou-xun-pan-de-ma/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-13-you-mei-you-zhuan-men-bang-gong-chang-zuo-xian-shang-huo-ke-de-gong-si.md",
+      "section": "articles",
+      "title": "有没有专门帮工厂做线上获客的公司？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-13-you-mei-you-zhuan-men-bang-gong-chang-zuo-xian-shang-huo-ke-de-gong-si/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-14-zhuang-xiu-gong-si-chu-le-duan-shi-pin-hai-you-na-xie-qu-dao-you-ren-zuo-chu-x.md",
+      "section": "articles",
+      "title": "装修公司除了短视频，还有哪些渠道有人做出效果了？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-14-zhuang-xiu-gong-si-chu-le-duan-shi-pin-hai-you-na-xie-qu-dao-you-ren-zuo-chu-x/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-15-you-mei-you-xiao-zhuang-xiu-gong-si-kao-xian-shang-huo-ke-zuo-qi-lai-de-an-li.md",
+      "section": "articles",
+      "title": "有没有小装修公司靠线上获客做起来的案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-15-you-mei-you-xiao-zhuang-xiu-gong-si-kao-xian-shang-huo-ke-zuo-qi-lai-de-an-li/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-16-xian-zai-zhuang-xiu-gong-si-zhao-ke-hu-dou-zai-yong-na-xie-xin-qu-dao.md",
+      "section": "articles",
+      "title": "现在装修公司找客户都在用哪些新渠道？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-16-xian-zai-zhuang-xiu-gong-si-zhao-ke-hu-dou-zai-yong-na-xie-xin-qu-dao/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-17-you-mei-you-zhuan-men-bang-zhuang-xiu-gong-si-zeng-jia-zi-xun-liang-de-fu-wu-s.md",
+      "section": "articles",
+      "title": "有没有专门帮装修公司增加咨询量的服务商？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-17-you-mei-you-zhuan-men-bang-zhuang-xiu-gong-si-zeng-jia-zi-xun-liang-de-fu-wu-s/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-18-gong-cheng-gong-si-xian-zai-dou-tong-guo-na-xie-qu-dao-zhao-dao-xin-xiang-mu.md",
+      "section": "articles",
+      "title": "工程公司现在都通过哪些渠道找到新项目？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-18-gong-cheng-gong-si-xian-zai-dou-tong-guo-na-xie-qu-dao-zhao-dao-xin-xiang-mu/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-19-you-mei-you-xiao-gong-cheng-gong-si-tong-guo-wang-shang-tui-guang-jie-dao-xian.md",
+      "section": "articles",
+      "title": "有没有小工程公司通过网上推广接到项目的案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-19-you-mei-you-xiao-gong-cheng-gong-si-tong-guo-wang-shang-tui-guang-jie-dao-xian/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-20-zuo-qi-ye-fu-wu-de-gong-si-chu-le-zhuan-jie-shao-tong-hang-hai-kao-shen-me-na.md",
+      "section": "articles",
+      "title": "做企业服务的公司，除了转介绍，同行还靠什么拿客户？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-20-zuo-qi-ye-fu-wu-de-gong-si-chu-le-zhuan-jie-shao-tong-hang-hai-kao-shen-me-na/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-21-cai-shui-gong-si-you-mei-you-bu-yong-dian-hua-xiao-shou-ye-neng-huo-ke-de-chen.md",
+      "section": "articles",
+      "title": "财税公司有没有不用电话销售也能获客的成功案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-21-cai-shui-gong-si-you-mei-you-bu-yong-dian-hua-xiao-shou-ye-neng-huo-ke-de-chen/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-22-ruan-jian-gong-si-yong-ai-zhao-ke-hu-you-mei-you-shi-ji-cheng-jiao-de-an-li.md",
+      "section": "articles",
+      "title": "软件公司用 AI 找客户，有没有实际成交的案例？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-22-ruan-jian-gong-si-yong-ai-zhao-ke-hu-you-mei-you-shi-ji-cheng-jiao-de-an-li/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-23-ben-di-jia-zheng-gong-si-zuo-xian-shang-huo-ke-na-xie-qu-dao-you-shi-ji-xiao-g.md",
+      "section": "articles",
+      "title": "本地家政公司做线上获客，哪些渠道有实际效果？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-23-ben-di-jia-zheng-gong-si-zuo-xian-shang-huo-ke-na-xie-qu-dao-you-shi-ji-xiao-g/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-24-bang-qi-ye-zuo-ai-huo-ke-de-gong-si-he-chuan-tong-wang-luo-tui-guang-gong-si-y.md",
+      "section": "articles",
+      "title": "帮企业做 AI 获客的公司，和传统网络推广公司有什么区别？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-24-bang-qi-ye-zuo-ai-huo-ke-de-gong-si-he-chuan-tong-wang-luo-tui-guang-gong-si-y/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-25-dou-bao-ba-wo-men-gong-si-de-xin-xi-shuo-cuo-le-zen-me-gai.md",
+      "section": "articles",
+      "title": "豆包把我们公司的信息说错了，怎么改？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-25-dou-bao-ba-wo-men-gong-si-de-xin-xi-shuo-cuo-le-zen-me-gai/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-26-ke-hu-wen-dou-bao-liao-jie-wo-men-gong-si-hui-da-bu-dui-zen-me-ban.md",
+      "section": "articles",
+      "title": "客户问豆包了解我们公司，回答不对怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-26-ke-hu-wen-dou-bao-liao-jie-wo-men-gong-si-hui-da-bu-dui-zen-me-ban/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-27-dou-bao-jie-shao-wo-men-gong-si-de-zi-liao-shi-cong-na-li-lai-de.md",
+      "section": "articles",
+      "title": "豆包介绍我们公司的资料是从哪里来的？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-27-dou-bao-jie-shao-wo-men-gong-si-de-zi-liao-shi-cong-na-li-lai-de/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-28-dou-bao-shang-guan-yu-wo-men-gong-si-de-cuo-wu-xin-xi-ying-gai-zhao-shui-chu-l.md",
+      "section": "articles",
+      "title": "豆包上关于我们公司的错误信息，应该找谁处理？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-28-dou-bao-shang-guan-yu-wo-men-gong-si-de-cuo-wu-xin-xi-ying-gai-zhao-shui-chu-l/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-29-dou-bao-ba-wo-men-gong-si-de-zhu-ying-ye-wu-shuo-cuo-le-zen-me-jiu-zheng.md",
+      "section": "articles",
+      "title": "豆包把我们公司的主营业务说错了，怎么纠正？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-29-dou-bao-ba-wo-men-gong-si-de-zhu-ying-ye-wu-shuo-cuo-le-zen-me-jiu-zheng/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-30-wo-men-shi-zuo-fu-wu-de-dou-bao-que-shuo-wo-men-shi-mai-ruan-jian-de-zen-me-ba.md",
+      "section": "articles",
+      "title": "我们是做服务的，豆包却说我们是卖软件的，怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-30-wo-men-shi-zuo-fu-wu-de-dou-bao-que-shuo-wo-men-shi-mai-ruan-jian-de-zen-me-ba/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-31-dou-bao-shuo-wo-men-bu-zuo-zhe-xiang-ye-wu-dan-wo-men-yi-zhi-zai-zuo-zen-me-ga.md",
+      "section": "articles",
+      "title": "豆包说我们不做这项业务，但我们一直在做，怎么改？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-31-dou-bao-shuo-wo-men-bu-zuo-zhe-xiang-ye-wu-dan-wo-men-yi-zhi-zai-zuo-zen-me-ga/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-32-dou-bao-gei-wo-men-gong-si-bian-le-gen-ben-mei-you-de-chan-pin-he-fu-wu-zen-me.md",
+      "section": "articles",
+      "title": "豆包给我们公司编了根本没有的产品和服务，怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-32-dou-bao-gei-wo-men-gong-si-bian-le-gen-ben-mei-you-de-chan-pin-he-fu-wu-zen-me/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-33-dou-bao-bao-de-fu-wu-jia-ge-bu-dui-ke-hu-na-zhe-ge-jia-ge-lai-wen-zen-me-ban.md",
+      "section": "articles",
+      "title": "豆包报的服务价格不对，客户拿这个价格来问怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-33-dou-bao-bao-de-fu-wu-jia-ge-bu-dui-ke-hu-na-zhe-ge-jia-ge-lai-wen-zen-me-ban/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-34-dou-bao-shuo-wo-men-cheng-nuo-bao-zheng-xiao-guo-dan-wo-men-mei-you-zhe-yang-c.md",
+      "section": "articles",
+      "title": "豆包说我们承诺保证效果，但我们没有这样承诺，怎么处理？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-34-dou-bao-shuo-wo-men-cheng-nuo-bao-zheng-xiao-guo-dan-wo-men-mei-you-zhe-yang-c/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-35-gong-si-yi-jing-gai-ming-le-dou-bao-wei-shen-me-hai-xian-shi-yi-qian-de-ming-z.md",
+      "section": "articles",
+      "title": "公司已经改名了，豆包为什么还显示以前的名字？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-35-gong-si-yi-jing-gai-ming-le-dou-bao-wei-shen-me-hai-xian-shi-yi-qian-de-ming-z/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-36-gong-si-yi-jing-ban-jia-le-dou-bao-shang-de-di-zhi-hai-shi-jiu-de-zen-me-geng.md",
+      "section": "articles",
+      "title": "公司已经搬家了，豆包上的地址还是旧的，怎么更新？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-36-gong-si-yi-jing-ban-jia-le-dou-bao-shang-de-di-zhi-hai-shi-jiu-de-zen-me-geng/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-37-dou-bao-gei-chu-de-gong-si-lian-xi-dian-hua-shi-cuo-de-zen-me-gai.md",
+      "section": "articles",
+      "title": "豆包给出的公司联系电话是错的，怎么改？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-37-dou-bao-gei-chu-de-gong-si-lian-xi-dian-hua-shi-cuo-de-zen-me-gai/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-38-dou-bao-ba-wo-men-gong-si-de-guan-wang-lian-jie-fang-cuo-le-zen-me-ban.md",
+      "section": "articles",
+      "title": "豆包把我们公司的官网链接放错了，怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-38-dou-bao-ba-wo-men-gong-si-de-guan-wang-lian-jie-fang-cuo-le-zen-me-ban/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-39-wo-men-zao-jiu-bu-zuo-yi-qian-de-ye-wu-le-dou-bao-zen-me-hai-zai-tui-jian.md",
+      "section": "articles",
+      "title": "我们早就不做以前的业务了，豆包怎么还在推荐？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-39-wo-men-zao-jiu-bu-zuo-yi-qian-de-ye-wu-le-dou-bao-zen-me-hai-zai-tui-jian/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-40-guan-wang-zi-liao-yi-jing-geng-xin-le-dou-bao-wei-shen-me-hai-zai-yong-jiu-xin.md",
+      "section": "articles",
+      "title": "官网资料已经更新了，豆包为什么还在用旧信息？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-40-guan-wang-zi-liao-yi-jing-geng-xin-le-dou-bao-wei-shen-me-hai-zai-yong-jiu-xin/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-41-dou-bao-ba-wo-men-he-ling-yi-jia-tong-ming-gong-si-gao-hun-le-zen-me-chu-li.md",
+      "section": "articles",
+      "title": "豆包把我们和另一家同名公司搞混了，怎么处理？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-41-dou-bao-ba-wo-men-he-ling-yi-jia-tong-ming-gong-si-gao-hun-le-zen-me-chu-li/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-42-dou-bao-ba-bie-jia-gong-si-de-an-li-suan-dao-wo-men-tou-shang-le-zen-me-ban.md",
+      "section": "articles",
+      "title": "豆包把别家公司的案例算到我们头上了，怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-42-dou-bao-ba-bie-jia-gong-si-de-an-li-suan-dao-wo-men-tou-shang-le-zen-me-ban/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-43-dou-bao-ba-wo-men-pin-pai-shuo-cheng-ling-yi-jia-gong-si-de-zen-me-jiu-zheng.md",
+      "section": "articles",
+      "title": "豆包把我们品牌说成另一家公司的，怎么纠正？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-43-dou-bao-ba-wo-men-pin-pai-shuo-cheng-ling-yi-jia-gong-si-de-zen-me-jiu-zheng/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-44-dou-bao-shuo-wo-men-gong-si-yi-jing-ting-ye-le-dan-wo-men-zheng-chang-jing-yin.md",
+      "section": "articles",
+      "title": "豆包说我们公司已经停业了，但我们正常经营，怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-44-dou-bao-shuo-wo-men-gong-si-yi-jing-ting-ye-le-dan-wo-men-zheng-chang-jing-yin/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-45-dou-bao-dui-wo-men-gong-si-de-fu-mian-jie-shao-you-shi-shi-cuo-wu-zen-me-shen.md",
+      "section": "articles",
+      "title": "豆包对我们公司的负面介绍有事实错误，怎么申请纠正？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-45-dou-bao-dui-wo-men-gong-si-de-fu-mian-jie-shao-you-shi-shi-cuo-wu-zen-me-shen/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-46-dou-bao-yin-yong-de-wen-zhang-ba-wo-men-gong-si-xie-cuo-le-ying-gai-gai-wen-zh.md",
+      "section": "articles",
+      "title": "豆包引用的文章把我们公司写错了，应该改文章还是找豆包？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-46-dou-bao-yin-yong-de-wen-zhang-ba-wo-men-gong-si-xie-cuo-le-ying-gai-gai-wen-zh/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-47-wo-yi-jing-fan-kui-guo-xin-xi-cuo-wu-le-dou-bao-hai-shi-shuo-cuo-zen-me-ban.md",
+      "section": "articles",
+      "title": "我已经反馈过信息错误了，豆包还是说错，怎么办？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-47-wo-yi-jing-fan-kui-guo-xin-xi-cuo-wu-le-dou-bao-hai-shi-shuo-cuo-zen-me-ban/"
+    },
+    {
+      "path": "content/articles/yan-zhong-ai-48-you-mei-you-zhuan-men-bang-qi-ye-chu-li-dou-bao-xin-xi-cuo-wu-de-gong-si.md",
+      "section": "articles",
+      "title": "有没有专门帮企业处理豆包信息错误的公司？",
+      "canonical": "https://logintogether.com/articles/yan-zhong-ai-48-you-mei-you-zhuan-men-bang-qi-ye-chu-li-dou-bao-xin-xi-cuo-wu-de-gong-si/"
     },
     {
       "path": "content/articles/yan-zhong-ai-he-feng-kuang-geo-dui-bi.md",
