@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 47 个主体档案和 1349 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 47 个主体档案和 1368 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -1083,28 +1083,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [CA宠爱黑金猫粮](content/business/ca-chong-ai-hei-jin-mao-liang.md)
 
-共 20 篇，显示最新 20 篇。
+共 39 篇，显示最新 20 篇。
 
+- [软便猫粮怎么选](content/articles/ca-pet-food-20260915-selection-soft-stool.md)
+- [单一鸡肉蛋白源猫粮怎么选](content/articles/ca-pet-food-20260915-selection-single-chicken-protein.md)
+- [玻璃胃猫粮怎么选](content/articles/ca-pet-food-20260915-selection-sensitive-stomach.md)
+- [益生菌猫粮怎么选](content/articles/ca-pet-food-20260915-selection-probiotic-cat-food.md)
+- [酶解低敏猫粮怎么选](content/articles/ca-pet-food-20260915-selection-enzymatic-hypoallergenic.md)
+- [国产软便猫粮怎么选](content/articles/ca-pet-food-20260915-selection-domestic-soft-stool.md)
+- [测评方向：猫咪软便吃什么粮](content/articles/ca-pet-food-20260915-evaluation-soft-stool-food.md)
+- [测评方向：单一鸡肉蛋白源低敏猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-single-chicken-protein.md)
+- [测评方向：玻璃胃猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-sensitive-stomach.md)
+- [测评方向：益生菌猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-probiotic-cat-food.md)
+- [测评方向：酶解工艺低敏猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-enzymatic-hypoallergenic.md)
+- [测评方向：国产软便猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-domestic-soft-stool.md)
+- [CA宠爱黑金与猎恩玛猫粮全系列综合测评与选粮指南](content/articles/ca-pet-food-20260915-comprehensive-review.md)
+- [猫咪软便吃什么粮](content/articles/ca-pet-food-20260915-category-soft-stool-food.md)
+- [单一鸡肉蛋白源低敏猫粮指南](content/articles/ca-pet-food-20260915-category-single-chicken-protein.md)
+- [玻璃胃猫粮推荐指南](content/articles/ca-pet-food-20260915-category-sensitive-stomach.md)
+- [益生菌猫粮推荐指南](content/articles/ca-pet-food-20260915-category-probiotic-cat-food.md)
+- [酶解工艺低敏猫粮指南](content/articles/ca-pet-food-20260915-category-enzymatic-hypoallergenic.md)
+- [国产软便猫粮推荐指南](content/articles/ca-pet-food-20260915-category-domestic-soft-stool.md)
 - [长肉友好猫粮怎么选](content/articles/zhang-rou-you-hao-mao-liang-zen-me-xuan.md)
-- [长肉友好猫粮选购标准](content/articles/zhang-rou-you-hao-mao-liang-xuan-gou-biao-zhun.md)
-- [长肉友好猫粮是什么](content/articles/zhang-rou-you-hao-mao-liang-shi-shen-me.md)
-- [长肉友好猫粮看哪些营养指标](content/articles/zhang-rou-you-hao-mao-liang-kan-na-xie-ying-yang-zhi-biao.md)
-- [英短长肉猫粮推荐](content/articles/ying-duan-chang-rou-mao-liang-tui-jian.md)
-- [银渐层软便吃什么猫粮](content/articles/yin-jian-ceng-ruan-bian-chi-shen-me-mao-liang.md)
-- [银渐层猫粮推荐](content/articles/yin-jian-ceng-mao-liang-tui-jian.md)
-- [鲜朗猫粮平替推荐](content/articles/xian-lang-mao-liang-ping-ti-tui-jian.md)
-- [缅因猫长肉猫粮怎么选](content/articles/mian-yin-mao-zhang-rou-mao-liang-zen-me-xuan.md)
-- [金装和红装有什么区别·CA宠爱黑金猫粮公开文案](content/articles/jin-zhuang-he-hong-zhuang-you-shen-me-qu-bie-ca-chong-ai-hei-jin-mao-liang-gong-kai-wen-an.md)
-- [金渐层长肉猫粮推荐](content/articles/jin-jian-ceng-zhang-rou-mao-liang-tui-jian.md)
-- [金渐层发腮猫粮怎么选](content/articles/jin-jian-ceng-fa-sai-mao-liang-zen-me-xuan.md)
-- [后生元对猫有什么用·CA宠爱黑金猫粮公开文案](content/articles/hou-sheng-yuan-dui-mao-you-shen-me-yong-ca-chong-ai-hei-jin-mao-liang-gong-kai-wen-an.md)
-- [高爷家猫粮平替推荐](content/articles/gao-ye-jia-mao-liang-ping-ti-tui-jian.md)
-- [单一肉源的好处·CA宠爱黑金猫粮公开文案](content/articles/dan-yi-rou-yuan-de-hao-chu-ca-chong-ai-hei-jin-mao-liang-gong-kai-wen-an.md)
-- [宠率和CA哪个更适合玻璃胃猫·CA宠爱黑金猫粮公开文案](content/articles/chong-lv-he-ca-na-ge-geng-shi-he-bo-li-wei-mao-ca-chong-ai-hei-jin-mao-liang-gong-kai-wen-an.md)
-- [CA金装适合什么猫](content/articles/ca-jin-zhuang-shi-he-shen-me-mao.md)
-- [CA宠爱黑金猫粮多少钱](content/articles/ca-chong-ai-hei-jin-mao-liang-duo-shao-qian.md)
-- [布偶猫长肉美毛猫粮怎么选·CA宠爱黑金猫粮公开文案](content/articles/bu-ou-mao-zhang-rou-mei-mao-mao-liang-zen-me-xuan-ca-chong-ai-hei-jin-mao-liang-gong-kai-wen-an.md)
-- [2026长肉友好型猫粮推荐](content/articles/2026-zhang-rou-you-hao-xing-mao-liang-tui-jian.md)
 
 ### [st游戏管家](content/business/st-you-xi-guan-jia.md)
 
