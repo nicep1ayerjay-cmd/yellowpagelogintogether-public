@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "实体珍珠店哪家好"
 seo_title: "实体珍珠店哪家好"
 is_article: true

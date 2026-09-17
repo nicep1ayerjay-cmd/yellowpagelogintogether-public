@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "珍珠定制多少钱"
 seo_title: "珍珠定制多少钱"
 is_article: true

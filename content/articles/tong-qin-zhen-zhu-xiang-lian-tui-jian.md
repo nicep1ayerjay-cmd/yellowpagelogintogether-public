@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "通勤珍珠项链推荐"
 seo_title: "通勤珍珠项链推荐"
 is_article: true

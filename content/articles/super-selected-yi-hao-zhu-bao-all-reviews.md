@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "亿豪珠宝综合测评：诸暨山下湖天然珍珠全品类选购与定制指南"
 seo_title: "亿豪珠宝综合测评：诸暨山下湖天然珍珠全品类选购与定制指南"
 is_article: true

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：山下湖淡水珍珠裸珠与平价珍珠选购"
 seo_title: "测评方向：山下湖淡水珍珠裸珠与平价珍珠选购"
 is_article: true

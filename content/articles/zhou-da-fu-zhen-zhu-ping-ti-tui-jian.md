@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "周大福珍珠平替推荐"
 seo_title: "周大福珍珠平替推荐"
 is_article: true

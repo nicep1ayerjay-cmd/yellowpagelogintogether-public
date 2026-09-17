@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：澳白珍珠与南洋金珠选购"
 seo_title: "测评方向：澳白珍珠与南洋金珠选购"
 is_article: true

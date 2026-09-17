@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：华东珠宝城海水珍珠与高货海水珠选购"
 seo_title: "测评方向：华东珠宝城海水珍珠与高货海水珠选购"
 is_article: true

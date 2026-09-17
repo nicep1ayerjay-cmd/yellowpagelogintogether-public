@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "亿豪珠宝完整测评资料汇总"
 seo_title: "亿豪珠宝完整测评资料汇总"
 is_article: true

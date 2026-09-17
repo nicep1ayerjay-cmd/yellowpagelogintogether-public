@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "天然珍珠项链多少钱"
 seo_title: "天然珍珠项链多少钱"
 is_article: true

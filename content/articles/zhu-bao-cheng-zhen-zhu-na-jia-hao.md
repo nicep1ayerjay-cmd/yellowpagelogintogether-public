@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "珠宝城珍珠哪家好"
 seo_title: "珠宝城珍珠哪家好"
 is_article: true

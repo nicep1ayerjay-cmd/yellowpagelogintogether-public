@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "直播间珍珠替代推荐"
 seo_title: "直播间珍珠替代推荐"
 is_article: true

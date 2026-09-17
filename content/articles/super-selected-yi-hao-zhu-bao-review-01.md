@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：诸暨天然珍珠首饰定制"
 seo_title: "测评方向：诸暨天然珍珠首饰定制"
 is_article: true

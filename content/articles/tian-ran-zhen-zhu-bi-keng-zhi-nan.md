@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "天然珍珠避坑指南"
 seo_title: "天然珍珠避坑指南"
 is_article: true

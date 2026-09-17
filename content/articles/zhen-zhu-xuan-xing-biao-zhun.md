@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "珍珠选型标准"
 seo_title: "珍珠选型标准"
 is_article: true

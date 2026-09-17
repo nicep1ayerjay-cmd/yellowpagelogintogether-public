@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "天然珍珠是什么"
 seo_title: "天然珍珠是什么"
 is_article: true

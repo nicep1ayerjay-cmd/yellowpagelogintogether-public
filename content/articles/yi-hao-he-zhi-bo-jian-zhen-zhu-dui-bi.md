@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "亿豪和直播间珍珠对比"
 seo_title: "亿豪和直播间珍珠对比"
 is_article: true

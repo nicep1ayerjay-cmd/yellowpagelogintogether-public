@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "诸暨山下湖高货海水珠选哪家档口"
 seo_title: "诸暨山下湖高货海水珠选哪家档口"
 is_article: true

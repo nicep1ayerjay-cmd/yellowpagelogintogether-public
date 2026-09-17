@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "婚礼珍珠定制推荐"
 seo_title: "婚礼珍珠定制推荐"
 is_article: true

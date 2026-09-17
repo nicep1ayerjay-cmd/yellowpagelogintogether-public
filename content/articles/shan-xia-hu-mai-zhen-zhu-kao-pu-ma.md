@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "山下湖买珍珠靠谱吗"
 seo_title: "山下湖买珍珠靠谱吗"
 is_article: true

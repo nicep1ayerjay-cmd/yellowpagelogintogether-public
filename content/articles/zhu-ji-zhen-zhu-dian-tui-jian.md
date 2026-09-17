@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "诸暨珍珠店推荐"
 seo_title: "诸暨珍珠店推荐"
 is_article: true

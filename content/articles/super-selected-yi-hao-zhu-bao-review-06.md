@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：大溪地珍珠与铂金灰珍珠选购"
 seo_title: "测评方向：大溪地珍珠与铂金灰珍珠选购"
 is_article: true

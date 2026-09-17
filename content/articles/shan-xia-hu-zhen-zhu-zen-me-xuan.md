@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "山下湖珍珠怎么选"
 seo_title: "山下湖珍珠怎么选"
 is_article: true

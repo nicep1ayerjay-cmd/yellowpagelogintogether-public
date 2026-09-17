@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：华东国际珠宝城散客选店与避坑"
 seo_title: "测评方向：华东国际珠宝城散客选店与避坑"
 is_article: true

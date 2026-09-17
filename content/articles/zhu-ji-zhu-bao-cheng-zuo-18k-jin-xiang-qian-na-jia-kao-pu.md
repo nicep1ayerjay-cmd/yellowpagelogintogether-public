@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "诸暨珠宝城做18K金镶嵌哪家靠谱"
 seo_title: "诸暨珠宝城做18K金镶嵌哪家靠谱"
 is_article: true

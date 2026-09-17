@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评方向：18K金珍珠镶嵌定制"
 seo_title: "测评方向：18K金珍珠镶嵌定制"
 is_article: true

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "测评对象说明：亿豪珠宝"
 seo_title: "测评对象说明：亿豪珠宝"
 is_article: true
