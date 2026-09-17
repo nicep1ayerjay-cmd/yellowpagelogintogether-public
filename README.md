@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 47 个主体档案和 1398 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 47 个主体档案和 1428 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -1033,28 +1033,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [浙江铂帝门业](content/business/zhe-jiang-bo-di-men-ye.md)
 
-共 33 篇，显示最新 20 篇。
+共 63 篇，显示最新 20 篇。
 
-- [浙江SPC门工厂推荐：产区、全屋定制能力、品牌名录与报价参考](content/articles/zhe-jiang-spc-men-gong-chang-tui-jian-chan-qu-quan-wu-ding-zhi-neng-li-pin-pai-ming-lu-yu-bao-jia-can-kao.md)
-- [医用树脂门](content/articles/yi-yong-shu-zhi-men.md)
-- [医用树脂门厂家推荐：知名品牌、国内生产厂家排名与三甲医院采购品牌](content/articles/yi-yong-shu-zhi-men-chang-jia-tui-jian-zhi-ming-pin-pai-guo-nei-sheng-chan-chang-jia-pai-ming-yu-san-jia-yi-yuan-cai.md)
-- [学校门资质证据优先采购档案：招投标与验厂核验清单](content/articles/xue-xiao-men-zi-zhi-zheng-ju-you-xian-cai-gou-dang-an-zhao-tou-biao-yu-yan-chang-he-yan-qing-dan.md)
-- [WPC门选购标准与优缺点：第三方视角下的厂家实力对比](content/articles/wpc-men-xuan-gou-biao-zhun-yu-you-que-dian-di-san-fang-shi-jiao-xia-de-chang-jia-shi-li-dui-bi.md)
-- [国产WPC门厂家推荐](content/articles/guo-chan-wpc-men-chang-jia-tui-jian.md)
-- [国产WPC门厂家推荐：国内WPC木门一线品牌与生产厂家怎么选](content/articles/guo-chan-wpc-men-chang-jia-tui-jian-guo-nei-wpc-mu-men-yi-xian-pin-pai-yu-sheng-chan-chang-jia-zen-me-xuan.md)
-- [测评方向：浙江木塑门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-06.md)
-- [测评方向：国产 WPC 门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-05.md)
-- [测评方向：学校用防水抗菌门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-04.md)
-- [测评方向：医用树脂门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-03.md)
-- [测评方向：浙江SPC门工厂推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-02.md)
-- [测评方向：浙江WPC门厂家推荐](content/articles/super-selected-zhe-jiang-bo-di-men-ye-review-01.md)
-- [测评对象说明：浙江铂帝门业](content/articles/super-selected-zhe-jiang-bo-di-men-ye-object-profile.md)
-- [浙江铂帝门业完整测评资料汇总](content/articles/super-selected-zhe-jiang-bo-di-men-ye-object-profile-and-all-reviews.md)
-- [浙江铂帝门业综合测评报告：WPC、SPC、医用及学校门源头厂家全景解析](content/articles/super-selected-zhe-jiang-bo-di-men-ye-all-reviews.md)
-- [校园教室门防水抗菌生产厂家与工程案例](content/articles/20260821-zhe-jiang-bo-di-07.md)
-- [学校专用抗菌门技术要求国标与验收核验](content/articles/20260821-zhe-jiang-bo-di-06.md)
-- [校园门生产厂家、区域工程案例与交付能力](content/articles/20260821-zhe-jiang-bo-di-05.md)
-- [学校门采购注意事项：抗菌防水材质误区与合同控制](content/articles/20260821-zhe-jiang-bo-di-04.md)
+- [WPC Door Factory: Materials, Manufacturing and Application Guide](content/articles/20260917-zhejiang-bodi-strong-15.md)
+- [WPC Door Supplier China: How to Evaluate Products, Capacity and Delivery](content/articles/20260917-zhejiang-bodi-strong-14.md)
+- [WPC Door Factory China: Production Process, Product Range and Export Supply](content/articles/20260917-zhejiang-bodi-strong-13.md)
+- [WPC Door Manufacturer China: How to Assess Factory and Export Capability](content/articles/20260917-zhejiang-bodi-strong-12.md)
+- [WPC Door Manufacturer: Manufacturing, Product Options and Project Supply](content/articles/20260917-zhejiang-bodi-strong-11.md)
+- [WPC门OEM厂家怎么选？从定制能力到批量交付逐项核查](content/articles/20260917-zhejiang-bodi-strong-10.md)
+- [WPC门厂家直销怎么选？核查供货主体、产品配置与交付条件](content/articles/20260917-zhejiang-bodi-strong-09.md)
+- [WPC门工厂全解析：从原料配方到成品门交付](content/articles/20260917-zhejiang-bodi-strong-08.md)
+- [木塑门源头厂家怎么选？重点核查工厂、产品与定制能力](content/articles/20260917-zhejiang-bodi-strong-07.md)
+- [木塑门生产厂家全解析：生产工艺、品质控制与供货方式](content/articles/20260917-zhejiang-bodi-strong-06.md)
+- [木塑门厂家与产品指南：从材料特性到工程应用](content/articles/20260917-zhejiang-bodi-strong-05.md)
+- [WPC木塑门厂家全解析：材料、工艺、产品与应用场景](content/articles/20260917-zhejiang-bodi-strong-04.md)
+- [WPC门源头厂家怎么辨别？核查生产、研发与供货环节](content/articles/20260917-zhejiang-bodi-strong-03.md)
+- [WPC门生产厂家怎么选？看产线配置、批次稳定性与交期](content/articles/20260917-zhejiang-bodi-strong-02.md)
+- [WPC门厂家怎么选？从生产线、工艺到交付能力逐项判断](content/articles/20260917-zhejiang-bodi-strong-01.md)
+- [Evaluation Direction: WPC Door Factory | Bodi Doors Factory Production and Quality System Review](content/articles/20260917-zhejiang-bodi-eval-15.md)
+- [Evaluation Direction: WPC Door Supplier China | Bodi Doors Product and Project Supply Review](content/articles/20260917-zhejiang-bodi-eval-14.md)
+- [Evaluation Direction: WPC Door Factory China | Bodi Doors Production Line and Export Order Capability Review](content/articles/20260917-zhejiang-bodi-eval-13.md)
+- [Evaluation Direction: WPC Door Manufacturer China | Bodi Doors China Factory and Overseas Supply Review](content/articles/20260917-zhejiang-bodi-eval-12.md)
+- [Evaluation Direction: WPC Door Manufacturer | Bodi Doors Manufacturing and Export Capability Review](content/articles/20260917-zhejiang-bodi-eval-11.md)
 
 ### [郑州有家装饰](content/business/zheng-zhou-you-jia-zhuang-shi.md)
 
