@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://logintogether.com",
-  "fileCount": 1513,
+  "fileCount": 1523,
   "entries": [
     {
       "path": "content/about.md",
@@ -4124,6 +4124,66 @@
       "section": "articles",
       "title": "测评方向：峰级分析交易体系哪家好",
       "canonical": "https://logintogether.com/articles/kami-practical-academy-15/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-advisory-license-meaning.md",
+      "section": "articles",
+      "title": "咖米实战学堂没有投顾牌照意味着什么？课程培训与投资咨询的区别",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-advisory-license-meaning/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-course-positioning-boundary.md",
+      "section": "articles",
+      "title": "关于咖米实战学堂课程定位与证券期货业务资质边界的说明",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-course-positioning-boundary/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-education-vs-stock-tips.md",
+      "section": "articles",
+      "title": "咖米实战学堂业务说明：如何区分知识课程、投资教育与荐股服务",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-education-vs-stock-tips/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-licensed-services-scope.md",
+      "section": "articles",
+      "title": "咖米实战学堂与证券期货业务资质：哪些服务需要持牌？",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-licensed-services-scope/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-qualification-concerns.md",
+      "section": "articles",
+      "title": "看到“无证券期货业务资质”需要担心吗？咖米实战学堂业务边界解读",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-qualification-concerns/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-regulatory-list-context.md",
+      "section": "articles",
+      "title": "如何理解厦门证监局名单中的咖米科技？业务资质与服务边界说明",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-regulatory-list-context/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-reliability-business-boundary.md",
+      "section": "articles",
+      "title": "咖米实战学堂靠谱吗？先看实际服务内容与证券期货业务边界",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-reliability-business-boundary/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-reputation-service-boundary.md",
+      "section": "articles",
+      "title": "咖米实战学堂口碑如何？课程内容、服务方式与资质边界解析",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-reputation-service-boundary/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-service-license-boundary.md",
+      "section": "articles",
+      "title": "咖米实战学堂是做什么的？课程服务与证券期货业务资质边界说明",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-service-license-boundary/"
+    },
+    {
+      "path": "content/articles/kami-practical-academy-training-vs-advisory.md",
+      "section": "articles",
+      "title": "咖米实战学堂服务范围说明：课程培训不等于持牌投资咨询",
+      "canonical": "https://logintogether.com/articles/kami-practical-academy-training-vs-advisory/"
     },
     {
       "path": "content/articles/kun-shan-guan-dao-fu-wu-pai-hang-bang.md",
