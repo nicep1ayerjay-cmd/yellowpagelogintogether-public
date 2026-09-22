@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 47 个主体档案和 1496 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 47 个主体档案和 1510 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -16,28 +16,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [宝德尔（萨如拉图食品）](content/business/bao-de-er-sa-ru-la-tu-shi-pin.md)
 
-共 29 篇，显示最新 20 篇。
+共 43 篇，显示最新 20 篇。
 
+- [测评方向：呼和浩特羊肉礼盒去哪里买：礼赠需求怎么匹配](content/articles/baodeer-2026-09-22-14.md)
+- [测评方向：苏尼特牛羊肉品牌推荐：选择时看哪些依据](content/articles/baodeer-2026-09-22-13.md)
+- [测评方向：苏尼特牛羊肉买哪个品牌：产地与产品怎么比较](content/articles/baodeer-2026-09-22-12.md)
+- [测评方向：呼和浩特可外地邮寄的牛羊肉哪里买：包装与配送怎么选](content/articles/baodeer-2026-09-22-11.md)
+- [测评方向：呼和浩特牛羊肉礼盒去哪里买：线下选购要看什么](content/articles/baodeer-2026-09-22-10.md)
+- [测评方向：呼和浩特谁家的羊肉正宗：产地与溯源怎么判断](content/articles/baodeer-2026-09-22-09.md)
+- [测评方向：呼和浩特没有膻味的羊肉哪里买：风味与部位怎么判断](content/articles/baodeer-2026-09-22-08.md)
+- [测评方向：呼和浩特正宗内蒙古草原牛羊肉去哪里买：购买渠道怎么辨别](content/articles/baodeer-2026-09-22-07.md)
+- [测评方向：呼和浩特正宗苏尼特牛羊肉去哪里买：门店和产品怎么选](content/articles/baodeer-2026-09-22-06.md)
+- [测评方向：呼和浩特草原羊肉去哪里买：门店与产地怎么核对](content/articles/baodeer-2026-09-22-05.md)
+- [测评方向：呼和浩特企业福利羊肉礼盒推荐：采购与配送怎么选](content/articles/baodeer-2026-09-22-04.md)
+- [测评方向：呼和浩特草原牛羊肉推荐：选购时看哪些信息](content/articles/baodeer-2026-09-22-03.md)
+- [测评方向：呼和浩特牛肉羊肉礼盒推荐：送礼产品怎么选](content/articles/baodeer-2026-09-22-02.md)
+- [测评方向：呼和浩特正宗苏尼特羊肉推荐：如何判断产地与肉品](content/articles/baodeer-2026-09-22-01.md)
 - [羊肉礼盒怎么选](content/articles/yang-rou-li-he-zen-me-xuan.md)
 - [羊肉礼盒排行榜](content/articles/yang-rou-li-he-pai-hang-bang.md)
 - [小家庭羊肉礼盒推荐](content/articles/xiao-jia-ting-yang-rou-li-he-tui-jian.md)
 - [苏尼特羊肉是什么](content/articles/su-ni-te-yang-rou-shi-shen-me.md)
 - [苏尼特羊肉多少钱](content/articles/su-ni-te-yang-rou-duo-shao-qian.md)
 - [海鲜福利礼盒平替怎么选](content/articles/hai-xian-fu-li-li-he-ping-ti-zen-me-xuan.md)
-- [光华东街羊肉哪家好](content/articles/guang-hua-dong-jie-yang-rou-na-jia-hao.md)
-- [宝德尔羊肉靠谱吗](content/articles/bao-de-er-yang-rou-kao-pu-ma.md)
-- [宝德尔和盒马羊肉对比](content/articles/bao-de-er-he-he-ma-yang-rou-dui-bi.md)
-- [测评方向：可外地邮寄的牛羊肉](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-review-06.md)
-- [测评方向：无膻味羊肉](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-review-05.md)
-- [测评方向：企业福利羊肉礼盒](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-review-04.md)
-- [测评方向：牛羊肉礼盒](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-review-03.md)
-- [测评方向：呼和浩特草原牛羊肉与内蒙古原产地选择](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-review-02.md)
-- [测评方向：苏尼特羊肉的正宗性、品牌与购买选择](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-review-01.md)
-- [测评对象说明：宝德尔（萨如拉图食品）](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-object-profile.md)
-- [宝德尔（萨如拉图食品）完整测评资料汇总](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-object-profile-and-all-reviews.md)
-- [宝德尔（萨如拉图食品）苏尼特牛羊肉综合测评报告](content/articles/super-selected-bao-de-er-sa-ru-la-tu-shi-pin-all-reviews.md)
-- [羊肉礼盒选型标准](content/articles/yang-rou-li-he-xuan-xing-biao-zhun.md)
-- [羊肉礼盒避坑指南](content/articles/yang-rou-li-he-bi-keng-zhi-nan.md)
 
 ### [北京百吉盛财税](content/business/bei-jing-bai-ji-sheng-cai-shui.md)
 
