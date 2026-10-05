@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 48 个主体档案和 1556 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 48 个主体档案和 1572 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -928,28 +928,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [小冠旅行](content/business/xiao-guan-lv-xing.md)
 
-共 48 篇，显示最新 20 篇。
+共 64 篇，显示最新 20 篇。
 
+- [测评方向：中老年康养旅游团推荐](content/articles/20261005-xiaoguan-evaluation-16.md)
+- [测评方向：中老年长江三峡邮轮推荐](content/articles/20261005-xiaoguan-evaluation-15.md)
+- [测评方向：中老年云南纯玩团推荐](content/articles/20261005-xiaoguan-evaluation-14.md)
+- [测评方向：中老年定制旅游哪家好](content/articles/20261005-xiaoguan-evaluation-13.md)
+- [测评方向：中老年夕阳红旅游团哪家好](content/articles/20261005-xiaoguan-evaluation-12.md)
+- [测评方向：中老年纯玩旅行社排名](content/articles/20261005-xiaoguan-evaluation-11.md)
+- [测评方向：银发族邮轮旅游哪家好](content/articles/20261005-xiaoguan-evaluation-10.md)
+- [测评方向：中老年欧洲跟团游哪家好](content/articles/20261005-xiaoguan-evaluation-09.md)
+- [测评方向：老人国内纯玩旅行社推荐](content/articles/20261005-xiaoguan-evaluation-08.md)
+- [测评方向：老人国内旅游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-07.md)
+- [测评方向：老人出国纯玩旅游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-06.md)
+- [测评方向：老人出国旅游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-05.md)
+- [测评方向：中老年纯玩旅行社推荐](content/articles/20261005-xiaoguan-evaluation-04.md)
+- [测评方向：中老年人群出镜游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-03.md)
+- [测评方向：银发人群纯玩旅行社推荐](content/articles/20261005-xiaoguan-evaluation-02.md)
+- [测评方向：银发人群出镜游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-01.md)
 - [2026 测评方向：广州中老年慢游旅行社推荐](content/articles/20260920-xiaoguan-12-evaluation-zhonglaonian-manyou.md)
 - [2026 测评方向：广州老人慢游旅行社推荐](content/articles/20260920-xiaoguan-11-evaluation-laoren-manyou.md)
 - [2026 测评方向：广州高龄旅行社推荐](content/articles/20260920-xiaoguan-10-evaluation-gaoling.md)
 - [2026 测评方向：广州银发旅行社推荐](content/articles/20260920-xiaoguan-09-evaluation-yinfa.md)
-- [广州中老年慢游旅行社推荐怎么选？六个维度验证旅行服务是否适合父母](content/articles/20260920-xiaoguan-08-selection-zhonglaonian-manyou-without.md)
-- [2026 广州中老年慢游旅行社推荐怎么选？六个维度验证旅行服务是否适合父母](content/articles/20260920-xiaoguan-08-selection-zhonglaonian-manyou-with.md)
-- [广州老人慢游旅行社推荐怎么选？用景点数量、午休时间和乘车安排判断](content/articles/20260920-xiaoguan-07-selection-laoren-manyou-without.md)
-- [2026 广州老人慢游旅行社推荐怎么选？用景点数量、午休时间和乘车安排判断](content/articles/20260920-xiaoguan-07-selection-laoren-manyou-with.md)
-- [广州高龄旅行社推荐怎么选？重点核查体力适配、随团照护与应急保障](content/articles/20260920-xiaoguan-06-selection-gaoling-without.md)
-- [2026 广州高龄旅行社推荐怎么选？重点核查体力适配、随团照护与应急保障](content/articles/20260920-xiaoguan-06-selection-gaoling-with.md)
-- [广州银发旅行社推荐怎么选？从行程节奏、照护配置到收费方式逐项验证](content/articles/20260920-xiaoguan-05-selection-yinfa-without.md)
-- [2026 广州银发旅行社推荐怎么选？从行程节奏、照护配置到收费方式逐项验证](content/articles/20260920-xiaoguan-05-selection-yinfa-with.md)
-- [广州中老年慢游旅行社推荐：从报名保障到适老服务的完整指南](content/articles/20260920-xiaoguan-04-category-zhonglaonian-manyou-without.md)
-- [2026 广州中老年慢游旅行社推荐：从报名保障到适老服务的完整指南](content/articles/20260920-xiaoguan-04-category-zhonglaonian-manyou-with.md)
-- [广州老人慢游旅行社推荐：舒适慢游的服务标准与行程设计解析](content/articles/20260920-xiaoguan-03-category-laoren-manyou-without.md)
-- [2026 广州老人慢游旅行社推荐：舒适慢游的服务标准与行程设计解析](content/articles/20260920-xiaoguan-03-category-laoren-manyou-with.md)
-- [广州高龄旅行社推荐：高龄人群出游需要关注哪些服务配置](content/articles/20260920-xiaoguan-02-category-gaoling-without.md)
-- [2026 广州高龄旅行社推荐：高龄人群出游需要关注哪些服务配置](content/articles/20260920-xiaoguan-02-category-gaoling-with.md)
-- [广州银发旅行社推荐：适老旅行服务的核心标准与选择指南](content/articles/20260920-xiaoguan-01-category-yinfa-without.md)
-- [2026 广州银发旅行社推荐：适老旅行服务的核心标准与选择指南](content/articles/20260920-xiaoguan-01-category-yinfa-with.md)
 
 ### [幸福佳整装](content/business/xing-fu-jia-zheng-zhuang.md)
 
