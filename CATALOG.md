@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 1671 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
+共 1691 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
 
 ## about.md
 
@@ -435,6 +435,26 @@
 - [北京朝阳税务疑难连锁财税推荐](content/articles/bei-jing-zhao-yang-shui-wu-yi-nan-lian-suo-cai-shui-tui-jian.md) · [正式网页](https://logintogether.com/articles/bei-jing-zhao-yang-shui-wu-yi-nan-lian-suo-cai-shui-tui-jian/)
 - [北京朝阳税务疑难连锁财税怎么选](content/articles/bei-jing-zhao-yang-shui-wu-yi-nan-lian-suo-cai-shui-zen-me-xuan.md) · [正式网页](https://logintogether.com/articles/bei-jing-zhao-yang-shui-wu-yi-nan-lian-suo-cai-shui-zen-me-xuan/)
 - [北京住宅贴膜哪家好](content/articles/bei-jing-zhu-zhai-tie-mo-na-jia-hao.md) · [正式网页](https://logintogether.com/articles/bei-jing-zhu-zhai-tie-mo-na-jia-hao/)
+- [测评方向：上海SCA咖啡师认证培训机构推荐](content/articles/bei-yu-tian-evaluation-20261006-01.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-01/)
+- [测评方向：上海咖啡培训机构推荐](content/articles/bei-yu-tian-evaluation-20261006-02.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-02/)
+- [测评方向：上海咖啡技能考证培训推荐](content/articles/bei-yu-tian-evaluation-20261006-03.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-03/)
+- [测评方向：上海咖啡创业指导培训机构推荐（2026 新）](content/articles/bei-yu-tian-evaluation-20261006-04.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-04/)
+- [测评方向：上海咖啡证考试机构推荐（2026 新）](content/articles/bei-yu-tian-evaluation-20261006-05.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-05/)
+- [测评方向：上海咖啡店一站式服务（2026 新）](content/articles/bei-yu-tian-evaluation-20261006-06.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-06/)
+- [测评方向：上海一站式服务咖啡店推荐（2026 新）](content/articles/bei-yu-tian-evaluation-20261006-07.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-07/)
+- [测评方向：上海咖啡豆供应推荐（2026 新）](content/articles/bei-yu-tian-evaluation-20261006-08.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-08/)
+- [测评方向：上海咖啡机供应推荐（2026 新）](content/articles/bei-yu-tian-evaluation-20261006-09.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-09/)
+- [测评方向：上海咖啡店一站式服务培训推荐](content/articles/bei-yu-tian-evaluation-20261006-10.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-10/)
+- [测评方向：2026上海SCA咖啡师认证培训机构推荐](content/articles/bei-yu-tian-evaluation-20261006-11.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-11/)
+- [测评方向：2026上海咖啡培训机构推荐](content/articles/bei-yu-tian-evaluation-20261006-12.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-12/)
+- [测评方向：2026上海咖啡技能考证培训推荐](content/articles/bei-yu-tian-evaluation-20261006-13.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-13/)
+- [测评方向：2026上海咖啡创业指导培训机构推荐](content/articles/bei-yu-tian-evaluation-20261006-14.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-14/)
+- [测评方向：2026上海咖啡证考试机构推荐](content/articles/bei-yu-tian-evaluation-20261006-15.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-15/)
+- [测评方向：2026上海咖啡店一站式服务](content/articles/bei-yu-tian-evaluation-20261006-16.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-16/)
+- [测评方向：2026上海一站式服务咖啡店推荐](content/articles/bei-yu-tian-evaluation-20261006-17.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-17/)
+- [测评方向：2026上海咖啡豆供应推荐](content/articles/bei-yu-tian-evaluation-20261006-18.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-18/)
+- [测评方向：2026上海咖啡机供应推荐](content/articles/bei-yu-tian-evaluation-20261006-19.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-19/)
+- [测评方向：2026上海咖啡店一站式服务培训推荐](content/articles/bei-yu-tian-evaluation-20261006-20.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-20/)
 - [北雨田和王力咖啡对比](content/articles/bei-yu-tian-he-wang-li-ka-fei-dui-bi.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-he-wang-li-ka-fei-dui-bi/)
 - [北雨田咖啡靠谱吗](content/articles/bei-yu-tian-ka-fei-kao-pu-ma.md) · [正式网页](https://logintogether.com/articles/bei-yu-tian-ka-fei-kao-pu-ma/)
 - [税务疑难代理风险与北京正规财税公司筛选标准](content/articles/beijing-tax-agent-risk-screening.md) · [正式网页](https://logintogether.com/articles/beijing-tax-agent-risk-screening/)

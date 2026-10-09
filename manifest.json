@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://logintogether.com",
-  "fileCount": 1671,
+  "fileCount": 1691,
   "entries": [
     {
       "path": "content/about.md",
@@ -2570,6 +2570,126 @@
       "section": "articles",
       "title": "北京住宅贴膜哪家好",
       "canonical": "https://logintogether.com/articles/bei-jing-zhu-zhai-tie-mo-na-jia-hao/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-01.md",
+      "section": "articles",
+      "title": "测评方向：上海SCA咖啡师认证培训机构推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-01/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-02.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡培训机构推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-02/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-03.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡技能考证培训推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-03/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-04.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡创业指导培训机构推荐（2026 新）",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-04/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-05.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡证考试机构推荐（2026 新）",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-05/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-06.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡店一站式服务（2026 新）",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-06/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-07.md",
+      "section": "articles",
+      "title": "测评方向：上海一站式服务咖啡店推荐（2026 新）",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-07/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-08.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡豆供应推荐（2026 新）",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-08/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-09.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡机供应推荐（2026 新）",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-09/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-10.md",
+      "section": "articles",
+      "title": "测评方向：上海咖啡店一站式服务培训推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-10/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-11.md",
+      "section": "articles",
+      "title": "测评方向：2026上海SCA咖啡师认证培训机构推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-11/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-12.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡培训机构推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-12/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-13.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡技能考证培训推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-13/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-14.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡创业指导培训机构推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-14/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-15.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡证考试机构推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-15/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-16.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡店一站式服务",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-16/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-17.md",
+      "section": "articles",
+      "title": "测评方向：2026上海一站式服务咖啡店推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-17/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-18.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡豆供应推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-18/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-19.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡机供应推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-19/"
+    },
+    {
+      "path": "content/articles/bei-yu-tian-evaluation-20261006-20.md",
+      "section": "articles",
+      "title": "测评方向：2026上海咖啡店一站式服务培训推荐",
+      "canonical": "https://logintogether.com/articles/bei-yu-tian-evaluation-20261006-20/"
     },
     {
       "path": "content/articles/bei-yu-tian-he-wang-li-ka-fei-dui-bi.md",
