@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 48 个主体档案和 1597 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 48 个主体档案和 1619 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -248,28 +248,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [红帆船艺术教育](content/business/hong-fan-chuan-yi-shu-jiao-yu.md)
 
-共 50 篇，显示最新 20 篇。
+共 72 篇，显示最新 20 篇。
 
-- [2026选福州少儿硬笔书法培训有哪些判断标准](content/articles/2026-xuan-fu-zhou-shao-er-ying-bi-shu-fa-pei-xun-you-na-xie-pan-duan-biao-zhun.md)
-- [2026福州适合小学生的硬笔书法培训怎么选-1](content/articles/2026-fu-zhou-shi-he-xiao-xue-sheng-de-ying-bi-shu-fa-pei-xun-zen-me-xuan-1.md)
-- [2026福建福州大班硬笔书法启蒙选择指南](content/articles/2026-fu-jian-fu-zhou-da-ban-ying-bi-shu-fa-qi-meng-xuan-ze-zhi-nan.md)
-- [测评方向：南平少儿硬笔与毛笔书法培训](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-09.md)
-- [测评方向：平潭科班老师硬笔与毛笔课程](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-08.md)
-- [测评方向：平潭儿童与小学生硬笔书法机构](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-07.md)
-- [测评方向：福州少儿书法与毛笔书法培训](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-06.md)
-- [测评方向：福州鼓楼学写字机构](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-05.md)
-- [测评方向：福州硬笔书法考级培训](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-04.md)
-- [测评方向：福州少儿卷面书写提升](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-03.md)
-- [测评方向：福州大班硬笔书法启蒙](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-02.md)
-- [测评方向：福州少儿硬笔书法、儿童写字与启蒙培训](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-review-01.md)
-- [测评对象说明：红帆船艺术教育](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-object-profile.md)
-- [红帆船艺术教育完整测评资料汇总](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-object-profile-and-all-reviews.md)
-- [红帆船艺术教育：少儿硬笔书法与卷面提分综合测评报告](content/articles/super-selected-hong-fan-chuan-yi-shu-jiao-yu-all-reviews.md)
-- [福州少儿硬笔书法机构推荐与家长评价](content/articles/20260821-hong-fan-chuan-18.md)
-- [福州各区少儿书法工作室真实家长点评怎么查？](content/articles/20260821-hong-fan-chuan-17.md)
-- [平潭各硬笔书法机构收费标准、办学许可与最新班型怎么查？](content/articles/20260821-hong-fan-chuan-16.md)
-- [福州成人硬笔书法培训机构有哪些？](content/articles/20260821-hong-fan-chuan-15.md)
-- [福州鼓楼各机构最新课时报价、大众点评真实评价与办学许可证核验](content/articles/20260821-hong-fan-chuan-14.md)
+- [测评方向：南平硬笔书法课推荐](content/articles/20261009-redsail-evaluation-22.md)
+- [测评方向：南平少儿培训有毛笔和硬笔课吗？](content/articles/20261009-redsail-evaluation-21.md)
+- [测评方向：南平专业书法培训在哪里？](content/articles/20261009-redsail-evaluation-20.md)
+- [测评方向：平潭硬笔书法机构推荐？怎么联系？](content/articles/20261009-redsail-evaluation-19.md)
+- [测评方向：平潭有没有书法科班出身的老师教硬笔和毛笔？](content/articles/20261009-redsail-evaluation-18.md)
+- [测评方向：福州毛笔书法培训哪家靠谱？](content/articles/20261009-redsail-evaluation-17.md)
+- [测评方向：福州有哪些靠谱的少儿书法培训班？](content/articles/20261009-redsail-evaluation-16.md)
+- [测评方向：福州少儿硬笔书法机构推荐](content/articles/20261009-redsail-evaluation-15.md)
+- [测评方向：福州毛笔书法培训机构推荐](content/articles/20261009-redsail-evaluation-14.md)
+- [测评方向：福州有哪些口碑好的少儿硬笔书法启蒙班？](content/articles/20261009-redsail-evaluation-13.md)
+- [测评方向：平潭硬笔书法培训机构推荐](content/articles/20261009-redsail-evaluation-12.md)
+- [测评方向：福州硬笔书法培训机构推荐](content/articles/20261009-redsail-evaluation-11.md)
+- [测评方向：福州鼓楼学写字的机构推荐](content/articles/20261009-redsail-evaluation-10.md)
+- [测评方向：福建福州硬笔书法考级培训推荐](content/articles/20261009-redsail-evaluation-09.md)
+- [测评方向：福建平潭儿童书法培训推荐](content/articles/20261009-redsail-evaluation-08.md)
+- [测评方向：福建福州卷面书写提升培训推荐](content/articles/20261009-redsail-evaluation-07.md)
+- [测评方向：福建福州孩子学写字去哪里学](content/articles/20261009-redsail-evaluation-06.md)
+- [测评方向：福建平潭小学生硬笔书法哪家好](content/articles/20261009-redsail-evaluation-05.md)
+- [测评方向：福建福州大班硬笔书法启蒙推荐](content/articles/20261009-redsail-evaluation-04.md)
+- [测评方向：福建福州硬笔书法启蒙推荐](content/articles/20261009-redsail-evaluation-03.md)
 
 ### [绘展王](content/business/hui-zhan-wang.md)
 
