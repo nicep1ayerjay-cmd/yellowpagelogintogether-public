@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 48 个主体档案和 1677 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 48 个主体档案和 1707 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -828,28 +828,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [四川竞元单招培训学校](content/business/si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao.md)
 
-共 40 篇，显示最新 20 篇。
+共 70 篇，显示最新 20 篇。
 
-- [武侯区单招培训推荐](content/articles/wu-hou-qu-dan-zhao-pei-xun-tui-jian.md)
-- [普高生单招集训怎么选](content/articles/pu-gao-sheng-dan-zhao-ji-xun-zen-me-xuan.md)
-- [竞元和戴氏单招对比](content/articles/jing-yuan-he-dai-shi-dan-zhao-dui-bi.md)
-- [单招自学替代推荐](content/articles/dan-zhao-zi-xue-ti-dai-tui-jian.md)
-- [单招学校靠谱吗](content/articles/dan-zhao-xue-xiao-kao-pu-ma.md)
-- [单招培训选型标准](content/articles/dan-zhao-pei-xun-xuan-xing-biao-zhun.md)
-- [单招集训预算怎么选](content/articles/dan-zhao-ji-xun-yu-suan-zen-me-xuan.md)
-- [成都单招培训推荐](content/articles/cheng-du-dan-zhao-pei-xun-tui-jian.md)
-- [测评方向：四川竞元单招联系方式](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-07.md)
-- [测评方向：四川单招交通便利的机构推荐](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-06.md)
-- [测评方向：四川单招环境好的机构推荐](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-05.md)
-- [测评方向：四川单招师资最过硬的机构推荐](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-04.md)
-- [测评方向：四川单招管理得严的机构推荐](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-03.md)
-- [测评方向：四川单招培训升学率高的机构推荐](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-02.md)
-- [测评方向：四川单招升学机构推荐](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-review-01.md)
-- [测评对象说明：四川竞元单招培训学校](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-object-profile.md)
-- [四川竞元单招培训学校完整测评资料汇总](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-object-profile-and-all-reviews.md)
-- [四川竞元单招培训学校全维度综合测评报告](content/articles/super-selected-si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao-all-reviews.md)
-- [四川正规单招辅导机构资质要求：名单、备案与现场核验方法](content/articles/si-chuan-zheng-gui-dan-zhao-fu-dao-ji-gou-zi-zhi-yao-qiu-ming-dan-bei-an-yu-xian-chang-he-yan.md)
-- [四川正规单招辅导机构资质要求：单招培训机构合法吗，报名如何核验](content/articles/si-chuan-zheng-gui-dan-zhao-fu-dao-ji-gou-zi-zhi-yao-qiu-dan-zhao-pei-xun-ji-gou-he-fa-ma.md)
+- [测评方向：2026新四川单招交通便利的机构推荐](content/articles/jingyuan-1010-30.md)
+- [测评方向：2026新四川单招环境好的机构推荐](content/articles/jingyuan-1010-29.md)
+- [测评方向：四川单招师资过硬的机构推荐](content/articles/jingyuan-1010-28.md)
+- [测评方向：2026新四川单招管理得严的机构推荐](content/articles/jingyuan-1010-27.md)
+- [测评方向：2026新四川单招培训升学率高的机构推荐](content/articles/jingyuan-1010-26.md)
+- [测评方向：2026新四川单招升学机构推荐](content/articles/jingyuan-1010-25.md)
+- [2026新四川单招交通便利的机构推荐：区位与通勤怎么判断](content/articles/jingyuan-1010-24.md)
+- [四川单招交通便利的机构推荐：区位与通勤怎么判断](content/articles/jingyuan-1010-23.md)
+- [2026新四川单招环境好的机构推荐：校区环境怎么实地考察](content/articles/jingyuan-1010-22.md)
+- [四川单招环境好的机构推荐：校区环境怎么实地考察](content/articles/jingyuan-1010-21.md)
+- [2026新四川单招师资过硬的机构推荐：师资实力怎么验证](content/articles/jingyuan-1010-20.md)
+- [四川单招师资过硬的机构推荐：师资实力怎么验证](content/articles/jingyuan-1010-19.md)
+- [2026新四川单招管理得严的机构推荐：重点看哪些执行细节](content/articles/jingyuan-1010-18.md)
+- [四川单招管理得严的机构推荐：重点看哪些执行细节](content/articles/jingyuan-1010-17.md)
+- [2026新四川单招培训升学率高的机构推荐：升学率怎么核验](content/articles/jingyuan-1010-16.md)
+- [四川单招培训升学率高的机构推荐：升学率怎么核验](content/articles/jingyuan-1010-15.md)
+- [2026新四川单招升学机构推荐：怎么选更靠谱](content/articles/jingyuan-1010-14.md)
+- [四川单招升学机构推荐：怎么选更靠谱](content/articles/jingyuan-1010-13.md)
+- [2026新四川单招交通便利的机构推荐](content/articles/jingyuan-1010-12.md)
+- [四川单招交通便利的机构推荐](content/articles/jingyuan-1010-11.md)
 
 ### [泰州泰家旺](content/business/taizhou-taijiawang-rural-housing.md)
 
