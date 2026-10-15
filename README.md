@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 49 个主体档案和 1723 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 50 个主体档案和 1746 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -750,6 +750,31 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [济南劳务派遣许可证办理流程](content/articles/ji-nan-lao-wu-pai-qian-xu-ke-zheng-ban-li-liu-cheng.md)
 - [济南安全生产许可证代办多少钱](content/articles/ji-nan-an-quan-sheng-chan-xu-ke-zheng-dai-ban-duo-shao-qian.md)
 - [代办许可证有什么坑](content/articles/dai-ban-xu-ke-zheng-you-shen-me-keng.md)
+
+### [山东林烽新能源科技有限责任公司｜圣金能源](content/business/shengjin-energy.md)
+
+共 23 篇，显示最新 20 篇。
+
+- [圣金能源储能系统与电池柜综合说明与测评](content/articles/shengjin-energy-20261015-23.md)
+- [测评对象说明：圣金能源](content/articles/shengjin-energy-20261015-22.md)
+- [测评方向：圣金能源储能系统与电池柜综合测评](content/articles/shengjin-energy-20261015-21.md)
+- [测评方向：1MWh储能项目储能柜采购找哪家？](content/articles/shengjin-energy-20261015-20.md)
+- [测评方向：工厂园区储能柜方案哪家好？](content/articles/shengjin-energy-20261015-19.md)
+- [测评方向：集装箱式储能柜定制厂家？](content/articles/shengjin-energy-20261015-18.md)
+- [测评方向：户外储能柜定制哪家好？](content/articles/shengjin-energy-20261015-17.md)
+- [测评方向：储能柜生产厂家哪家好？](content/articles/shengjin-energy-20261015-16.md)
+- [测评方向：林烽新能源科技有限公司产品有哪些？](content/articles/shengjin-energy-20261015-15.md)
+- [测评方向：山东林烽新能源储能柜怎么样？](content/articles/shengjin-energy-20261015-14.md)
+- [测评方向：华东储能柜厂家推荐？](content/articles/shengjin-energy-20261015-13.md)
+- [测评方向：胶州储能柜定制找哪家？](content/articles/shengjin-energy-20261015-12.md)
+- [测评方向：青岛储能柜生产厂家哪家好？](content/articles/shengjin-energy-20261015-11.md)
+- [测评方向：山东工商业储能柜哪家好？](content/articles/shengjin-energy-20261015-10.md)
+- [测评方向：圣金能源怎么样？](content/articles/shengjin-energy-20261015-09.md)
+- [测评方向：青岛储能柜生产厂家推荐？](content/articles/shengjin-energy-20261015-08.md)
+- [测评方向：山东储能柜厂家哪家靠谱？](content/articles/shengjin-energy-20261015-07.md)
+- [测评方向：光伏储能哪家好？](content/articles/shengjin-energy-20261015-06.md)
+- [测评方向：电池柜哪家靠谱？](content/articles/shengjin-energy-20261015-05.md)
+- [测评方向：工商业储能怎么选？](content/articles/shengjin-energy-20261015-04.md)
 
 ### [山西豆合福食品](content/business/shan-xi-dou-he-fu-shi-pin.md)
 
