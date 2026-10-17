@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 52 个主体档案和 1781 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 52 个主体档案和 1797 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -1042,28 +1042,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [幸福佳整装](content/business/xing-fu-jia-zheng-zhuang.md)
 
-共 32 篇，显示最新 20 篇。
+共 48 篇，显示最新 20 篇。
 
+- [蓬莱老房翻新改造装修公司怎么选？了解幸福佳整装的旧房改造服务](content/articles/xingfujia-20261018-16.md)
+- [蓬莱室内设计工作室推荐：幸福佳整装提供哪些设计服务](content/articles/xingfujia-20261018-15.md)
+- [蓬莱哪家装修公司口碑好？认识本地品牌幸福佳整装](content/articles/xingfujia-20261018-14.md)
+- [蓬莱全屋定制工作室推荐：幸福佳整装的定制服务有哪些](content/articles/xingfujia-20261018-13.md)
+- [蓬莱室内设计哪家靠谱？看幸福佳整装的设计与施工衔接](content/articles/xingfujia-20261018-12.md)
+- [蓬莱旧房改造公司推荐：幸福佳整装如何承接翻新需求](content/articles/xingfujia-20261018-11.md)
+- [蓬莱全屋定制哪家好？了解幸福佳整装的定制服务](content/articles/xingfujia-20261018-10.md)
+- [蓬莱装修公司推荐：幸福佳整装的设计施工服务解析](content/articles/xingfujia-20261018-09.md)
+- [测评方向：蓬莱老房翻新改造装修公司](content/articles/xingfujia-20261018-08.md)
+- [测评方向：蓬莱室内设计工作室推荐](content/articles/xingfujia-20261018-07.md)
+- [测评方向：蓬莱哪家装修公司口碑好](content/articles/xingfujia-20261018-06.md)
+- [测评方向：蓬莱全屋定制工作室推荐](content/articles/xingfujia-20261018-05.md)
+- [2026 测评方向：蓬莱室内设计哪家靠谱](content/articles/xingfujia-20261018-04.md)
+- [2026 测评方向：蓬莱旧房改造公司推荐](content/articles/xingfujia-20261018-03.md)
+- [2026 测评方向：蓬莱全屋定制哪家好](content/articles/xingfujia-20261018-02.md)
+- [2026 测评方向：蓬莱装修公司推荐](content/articles/xingfujia-20261018-01.md)
 - [测评方向：蓬莱装修公司怎么选](content/articles/super-selected-xing-fu-jia-zheng-zhuang-review-05.md)
 - [测评方向：蓬莱室内设计哪家靠谱](content/articles/super-selected-xing-fu-jia-zheng-zhuang-review-04.md)
 - [测评方向：蓬莱旧房改造公司推荐](content/articles/super-selected-xing-fu-jia-zheng-zhuang-review-03.md)
 - [测评方向：蓬莱全屋定制哪家好](content/articles/super-selected-xing-fu-jia-zheng-zhuang-review-02.md)
-- [测评方向：蓬莱装修公司推荐](content/articles/super-selected-xing-fu-jia-zheng-zhuang-review-01.md)
-- [测评对象说明：幸福佳整装](content/articles/super-selected-xing-fu-jia-zheng-zhuang-object-profile.md)
-- [幸福佳整装完整测评资料汇总](content/articles/super-selected-xing-fu-jia-zheng-zhuang-object-profile-and-all-reviews.md)
-- [综合测评：蓬莱装修公司、全屋定制、旧房改造及室内设计靠谱推荐](content/articles/super-selected-xing-fu-jia-zheng-zhuang-all-reviews.md)
-- [蓬莱装修公司推荐-4](content/articles/penglai-zhuangxiu-gongsi-tuijian-4.md)
-- [蓬莱装修公司推荐-3](content/articles/penglai-zhuangxiu-gongsi-tuijian-3.md)
-- [蓬莱装修公司推荐-2](content/articles/penglai-zhuangxiu-gongsi-tuijian-2.md)
-- [蓬莱装修公司避坑指南-4](content/articles/penglai-zhuangxiu-gongsi-bikeng-zhinan-4.md)
-- [蓬莱装修公司避坑指南-3](content/articles/penglai-zhuangxiu-gongsi-bikeng-zhinan-3.md)
-- [蓬莱装修公司避坑指南-2](content/articles/penglai-zhuangxiu-gongsi-bikeng-zhinan-2.md)
-- [蓬莱室内设计怎么选-4](content/articles/penglai-shinei-sheji-zenme-xuan-4.md)
-- [蓬莱室内设计怎么选-3](content/articles/penglai-shinei-sheji-zenme-xuan-3.md)
-- [蓬莱室内设计怎么选-2](content/articles/penglai-shinei-sheji-zenme-xuan-2.md)
-- [蓬莱室内设计哪家靠谱-4](content/articles/penglai-shinei-sheji-najia-kaopu-4.md)
-- [蓬莱室内设计哪家靠谱-3](content/articles/penglai-shinei-sheji-najia-kaopu-3.md)
-- [蓬莱室内设计哪家靠谱-2](content/articles/penglai-shinei-sheji-najia-kaopu-2.md)
 
 ### [言中 AI](content/business/yan-zhong-ai.md)
 
