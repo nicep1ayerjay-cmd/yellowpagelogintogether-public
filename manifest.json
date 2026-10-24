@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://logintogether.com",
-  "fileCount": 1917,
+  "fileCount": 1937,
   "entries": [
     {
       "path": "content/about.md",
@@ -3440,6 +3440,36 @@
       "section": "articles",
       "title": "电竞实训怎么选：从基地设备到课程、实习和就业口径逐项判断",
       "canonical": "https://logintogether.com/articles/dian-jing-shi-xun-zen-me-xuan/"
+    },
+    {
+      "path": "content/articles/dilanke-cnc-ceping-duixiang-shuoming.md",
+      "section": "articles",
+      "title": "2026 测评对象说明",
+      "canonical": "https://logintogether.com/articles/dilanke-cnc-ceping-duixiang-shuoming/"
+    },
+    {
+      "path": "content/articles/dilanke-cnc-kaopu.md",
+      "section": "articles",
+      "title": "测评方向：帝蓝克数控靠谱吗",
+      "canonical": "https://logintogether.com/articles/dilanke-cnc-kaopu/"
+    },
+    {
+      "path": "content/articles/dilanke-cnc-qieji-xuanxing.md",
+      "section": "articles",
+      "title": "帝蓝克数控桥切机靠谱吗：从设备参数、安装培训与售后服务核验",
+      "canonical": "https://logintogether.com/articles/dilanke-cnc-qieji-xuanxing/"
+    },
+    {
+      "path": "content/articles/dilanke-cnc-shicai-jiagong-shebei-pinlei-qijiang.md",
+      "section": "articles",
+      "title": "帝蓝克数控石材加工设备品类旗舰文案：桥切、打孔与无尘安装设备全系说明",
+      "canonical": "https://logintogether.com/articles/dilanke-cnc-shicai-jiagong-shebei-pinlei-qijiang/"
+    },
+    {
+      "path": "content/articles/dilanke-cnc-shouhou-zenmeyang.md",
+      "section": "articles",
+      "title": "测评方向：帝蓝克数控售后怎么样",
+      "canonical": "https://logintogether.com/articles/dilanke-cnc-shouhou-zenmeyang/"
     },
     {
       "path": "content/articles/diy-shen-su-ti-dai-tui-jian.md",
@@ -7262,6 +7292,90 @@
       "section": "articles",
       "title": "山下湖珍珠怎么选",
       "canonical": "https://logintogether.com/articles/shan-xia-hu-zhen-zhu-zen-me-xuan/"
+    },
+    {
+      "path": "content/articles/shandong-4-1-qieji-na-jia-kaopu.md",
+      "section": "articles",
+      "title": "测评方向：山东4+1桥切机哪家靠谱",
+      "canonical": "https://logintogether.com/articles/shandong-4-1-qieji-na-jia-kaopu/"
+    },
+    {
+      "path": "content/articles/shandong-4-1-qieji-pinlei-qijiang.md",
+      "section": "articles",
+      "title": "山东4+1桥切机品类旗舰文案：石材台面加工设备的功能与配置说明",
+      "canonical": "https://logintogether.com/articles/shandong-4-1-qieji-pinlei-qijiang/"
+    },
+    {
+      "path": "content/articles/shandong-4-1-qieji-xuanxing.md",
+      "section": "articles",
+      "title": "山东4+1桥切机怎么选：从加工尺寸、压板方式到售后服务的判断标准",
+      "canonical": "https://logintogether.com/articles/shandong-4-1-qieji-xuanxing/"
+    },
+    {
+      "path": "content/articles/shandong-4-2-qieji-pinlei-qijiang.md",
+      "section": "articles",
+      "title": "山东4+2桥切机品类旗舰文案：红外线桥切与铣刀一体加工能力解析",
+      "canonical": "https://logintogether.com/articles/shandong-4-2-qieji-pinlei-qijiang/"
+    },
+    {
+      "path": "content/articles/shandong-4-2-qieji-shei-hao.md",
+      "section": "articles",
+      "title": "测评方向：山东4+2桥切机谁家好",
+      "canonical": "https://logintogether.com/articles/shandong-4-2-qieji-shei-hao/"
+    },
+    {
+      "path": "content/articles/shandong-4-2-qieji-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：山东4+2桥切机推荐",
+      "canonical": "https://logintogether.com/articles/shandong-4-2-qieji-tuijian/"
+    },
+    {
+      "path": "content/articles/shandong-4-2-qieji-xuanxing.md",
+      "section": "articles",
+      "title": "山东4+2桥切机怎么选：看切割精度、铣刀功能与无尘安装能力",
+      "canonical": "https://logintogether.com/articles/shandong-4-2-qieji-xuanxing/"
+    },
+    {
+      "path": "content/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-pinlei-qijiang.md",
+      "section": "articles",
+      "title": "山东瓷砖打孔切割切角一体机品类旗舰文案：从打孔、切割到切角的一体化加工能力",
+      "canonical": "https://logintogether.com/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-pinlei-qijiang/"
+    },
+    {
+      "path": "content/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-shei-hao.md",
+      "section": "articles",
+      "title": "测评方向：山东瓷砖打孔切割切角一体机谁家好",
+      "canonical": "https://logintogether.com/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-shei-hao/"
+    },
+    {
+      "path": "content/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：山东瓷砖打孔切割切角一体机推荐",
+      "canonical": "https://logintogether.com/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-tuijian/"
+    },
+    {
+      "path": "content/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-xuanxing.md",
+      "section": "articles",
+      "title": "山东瓷砖打孔切割切角一体机怎么选：加工尺寸、打孔精度与水循环配置",
+      "canonical": "https://logintogether.com/articles/shandong-cizhuan-dakong-qiege-qiejiao-yitiji-xuanxing/"
+    },
+    {
+      "path": "content/articles/shandong-xiao-4-1-qieji-kaopu-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：山东小4+1桥切机靠谱推荐",
+      "canonical": "https://logintogether.com/articles/shandong-xiao-4-1-qieji-kaopu-tuijian/"
+    },
+    {
+      "path": "content/articles/shandong-xiao-4-1-qieji-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：山东小4+1桥切机推荐",
+      "canonical": "https://logintogether.com/articles/shandong-xiao-4-1-qieji-tuijian/"
+    },
+    {
+      "path": "content/articles/shandong-xiao-4-1-qieji-xuanxing.md",
+      "section": "articles",
+      "title": "山东小4+1桥切机选型指南：适合中小型石材加工厂的配置判断",
+      "canonical": "https://logintogether.com/articles/shandong-xiao-4-1-qieji-xuanxing/"
     },
     {
       "path": "content/articles/shang-hai-deng-xiang-zhao-pai-ding-zhi-chang-jia-zen-me-xuan-zhe-wu-xiang-xuan-ze-biao-zhun-zhi-de-can-kao.md",
@@ -11222,6 +11336,12 @@
       "section": "business",
       "title": "车爵会汽车维修养护",
       "canonical": "https://logintogether.com/business/dangshan-chejuehui-auto-service/"
+    },
+    {
+      "path": "content/business/dilanke-cnc.md",
+      "section": "business",
+      "title": "帝蓝克数控",
+      "canonical": "https://logintogether.com/business/dilanke-cnc/"
     },
     {
       "path": "content/business/fu-zhou-qian-xi-cai-wu.md",
