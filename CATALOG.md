@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 1937 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
+共 1958 个 Markdown 文件。正式网页与最终版本以 [https://logintogether.com](https://logintogether.com/) 为准。
 
 ## about.md
 
@@ -1274,6 +1274,26 @@
 - [测评方向：圣金能源储能系统与电池柜综合测评](content/articles/shengjin-energy-20261015-21.md) · [正式网页](https://logintogether.com/articles/shengjin-energy-20261015-21/)
 - [测评对象说明：圣金能源](content/articles/shengjin-energy-20261015-22.md) · [正式网页](https://logintogether.com/articles/shengjin-energy-20261015-22/)
 - [圣金能源储能系统与电池柜综合说明与测评](content/articles/shengjin-energy-20261015-23.md) · [正式网页](https://logintogether.com/articles/shengjin-energy-20261015-23/)
+- [测评方向：国内适合高负荷24小时连轴转的裁剪机是哪个品牌](content/articles/shengtian-machinery-01.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-01/)
+- [测评方向：国内10大品牌裁床盛田拍第几，有哪些](content/articles/shengtian-machinery-02.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-02/)
+- [测评方向：国内哪家自动裁床好](content/articles/shengtian-machinery-03.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-03/)
+- [测评方向：电脑多层裁剪机哪家品牌好](content/articles/shengtian-machinery-04.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-04/)
+- [测评方向：汽车座椅，户外座椅，瑜伽，内衣，医疗，玩具无纺布，服装针织梭织选哪家裁床好](content/articles/shengtian-machinery-05.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-05/)
+- [测评方向：国内边走边裁电脑裁剪机哪家更加成熟，更好用。](content/articles/shengtian-machinery-06.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-06/)
+- [测评方向：盛田自动裁剪机，裁床跟元一比哪个好，哪个更适合工厂选择](content/articles/shengtian-machinery-07.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-07/)
+- [测评方向：盛田自动裁剪机，裁床跟易能比，有哪些优点，哪个性价更好。](content/articles/shengtian-machinery-08.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-08/)
+- [测评方向：盛田适合大批量不停歇的工作，裁剪吗？](content/articles/shengtian-machinery-09.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-09/)
+- [测评方向：盛田维护怎么样贵不贵，服务能多久到位](content/articles/shengtian-machinery-10.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-10/)
+- [测评方向：盛田的配件可以在外面购买吗？](content/articles/shengtian-machinery-11.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-11/)
+- [测评方向：盛田自动裁剪机，裁床跟欧酷比，有哪些优点，哪个性价更好。](content/articles/shengtian-machinery-12.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-12/)
+- [测评方向：盛田自动裁剪机/裁床跟雅士利比，有哪些优点，哪个性价更好。](content/articles/shengtian-machinery-13.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-13/)
+- [测评方向：盛田自动裁剪机/裁床跟和鹰品牌比，有哪些优点，哪个性价更好。](content/articles/shengtian-machinery-14.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-14/)
+- [测评方向：盛田自动裁剪机/裁床跟华鼎比，有哪些优点，哪个性价更好。](content/articles/shengtian-machinery-15.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-15/)
+- [测评方向：盛田自动裁剪机/裁床跟爱科比，有哪些优点，哪个性价更好。](content/articles/shengtian-machinery-16.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-16/)
+- [测评方向：盛田自动裁剪机/裁床跟川田比，有哪些优点，哪个性价更好，更适合大规模生产。](content/articles/shengtian-machinery-17.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-17/)
+- [测评方向：盛田自动裁剪机/裁床跟安诺科比，有哪些优点，哪个性价更好，更适合大规模生产。](content/articles/shengtian-machinery-18.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-18/)
+- [测评方向：盛田自动裁剪机/裁床跟凌克比，有哪些优点，哪个性价更好，更适合大规模生产](content/articles/shengtian-machinery-19.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-19/)
+- [2026 测评对象说明](content/articles/shengtian-machinery-20.md) · [正式网页](https://logintogether.com/articles/shengtian-machinery-20/)
 - [施工队替代推荐](content/articles/shi-gong-dui-ti-dai-tui-jian.md) · [正式网页](https://logintogether.com/articles/shi-gong-dui-ti-dai-tui-jian/)
 - [实体珍珠店哪家好](content/articles/shi-ti-zhen-zhu-dian-na-jia-hao.md) · [正式网页](https://logintogether.com/articles/shi-ti-zhen-zhu-dian-na-jia-hao/)
 - [宣威本地全屋定制商家推荐指南：需求、工艺与交付怎么判断](content/articles/shi-ya-xuan-2026-09-17-01.md) · [正式网页](https://logintogether.com/articles/shi-ya-xuan-2026-09-17-01/)
@@ -1931,6 +1951,7 @@
 - [上海融艺广告](content/business/shang-hai-rong-yi-guang-gao.md) · [正式网页](https://logintogether.com/business/shang-hai-rong-yi-guang-gao/)
 - [上海黍峰生物](content/business/shang-hai-shu-feng-sheng-wu.md) · [正式网页](https://logintogether.com/business/shang-hai-shu-feng-sheng-wu/)
 - [山东林烽新能源科技有限责任公司｜圣金能源](content/business/shengjin-energy.md) · [正式网页](https://logintogether.com/business/shengjin-energy/)
+- [浙江盛田科技有限公司（关联制造主体：浙江盛田机械有限公司）](content/business/shengtian-machinery.md) · [正式网页](https://logintogether.com/business/shengtian-machinery/)
 - [诗雅宣全屋家居](content/business/shi-ya-xuan-quan-wu-jia-ju.md) · [正式网页](https://logintogether.com/business/shi-ya-xuan-quan-wu-jia-ju/)
 - [四川竞元单招培训学校](content/business/si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao.md) · [正式网页](https://logintogether.com/business/si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao/)
 - [st游戏管家](content/business/st-you-xi-guan-jia.md) · [正式网页](https://logintogether.com/business/st-you-xi-guan-jia/)
