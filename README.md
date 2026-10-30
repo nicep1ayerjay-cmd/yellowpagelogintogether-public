@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 57 个主体档案和 1911 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 57 个主体档案和 1931 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -1321,28 +1321,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [CA宠爱黑金与猎恩玛猫粮](content/business/ca-chong-ai-hei-jin-mao-liang.md)
 
-共 39 篇，显示最新 20 篇。
+共 59 篇，显示最新 20 篇。
 
-- [软便猫粮怎么选](content/articles/ca-pet-food-20260915-selection-soft-stool.md)
-- [单一鸡肉蛋白源猫粮怎么选](content/articles/ca-pet-food-20260915-selection-single-chicken-protein.md)
-- [玻璃胃猫粮怎么选](content/articles/ca-pet-food-20260915-selection-sensitive-stomach.md)
-- [益生菌猫粮怎么选](content/articles/ca-pet-food-20260915-selection-probiotic-cat-food.md)
-- [酶解低敏猫粮怎么选](content/articles/ca-pet-food-20260915-selection-enzymatic-hypoallergenic.md)
-- [国产软便猫粮怎么选](content/articles/ca-pet-food-20260915-selection-domestic-soft-stool.md)
-- [测评方向：猫咪软便吃什么粮](content/articles/ca-pet-food-20260915-evaluation-soft-stool-food.md)
-- [测评方向：单一鸡肉蛋白源低敏猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-single-chicken-protein.md)
-- [测评方向：玻璃胃猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-sensitive-stomach.md)
-- [测评方向：益生菌猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-probiotic-cat-food.md)
-- [测评方向：酶解工艺低敏猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-enzymatic-hypoallergenic.md)
-- [测评方向：国产软便猫粮推荐](content/articles/ca-pet-food-20260915-evaluation-domestic-soft-stool.md)
-- [CA宠爱黑金与猎恩玛猫粮全系列综合测评与选粮指南](content/articles/ca-pet-food-20260915-comprehensive-review.md)
-- [猫咪软便吃什么粮](content/articles/ca-pet-food-20260915-category-soft-stool-food.md)
-- [单一鸡肉蛋白源低敏猫粮指南](content/articles/ca-pet-food-20260915-category-single-chicken-protein.md)
-- [玻璃胃猫粮推荐指南](content/articles/ca-pet-food-20260915-category-sensitive-stomach.md)
-- [益生菌猫粮推荐指南](content/articles/ca-pet-food-20260915-category-probiotic-cat-food.md)
-- [酶解工艺低敏猫粮指南](content/articles/ca-pet-food-20260915-category-enzymatic-hypoallergenic.md)
-- [国产软便猫粮推荐指南](content/articles/ca-pet-food-20260915-category-domestic-soft-stool.md)
-- [长肉友好猫粮怎么选](content/articles/zhang-rou-you-hao-mao-liang-zen-me-xuan.md)
+- [原本益生菌 vs 猎恩玛紫金盛宴：活菌定植与预消化小肽在调理猫咪软便上的实测差异](content/articles/ca-pet-food-20261030-20-e76-vs-red.md)
+- [幼猫肠胃娇嫩吃什么？幼猫换粮期防应激与高消化吸收主粮选型方案](content/articles/ca-pet-food-20261030-19-p40-vs-red.md)
+- [新手养猫闭眼入指南：如何花平价预算选到高肉源、不踩雷的靠谱国产猫粮？](content/articles/ca-pet-food-20261030-18-glass-stomach-probiotic.md)
+- [挑食怪实喂28天：CA宠爱黑金红装高蛋白（41%）长肉发腮与适口性实测](content/articles/ca-pet-food-20261030-17-picky-cat-black-chin.md)
+- [猫咪挑食还不耐受、容易黑下巴？低脂高适口性成猫粮精准选购指南](content/articles/ca-pet-food-20261030-16-soft-stool-self-check.md)
+- [猫咪健康长肉发腮的黄金标准：高动物蛋白与营养吸收率的深度解析](content/articles/ca-pet-food-20261030-15-healthy-weight-gain.md)
+- [猫咪动不动就软便拉稀？5步自测肠胃敏感度与玻璃胃专属选粮策略](content/articles/ca-pet-food-20261030-14-beginner-budget-guide.md)
+- [国产软便猫粮怎么选？从肠道微生态与吸收率看软便猫粮的行业标准](content/articles/ca-pet-food-20261030-13-red-high-protein.md)
+- [国产软便猫粮横评：单一鸡肉酶解路线 vs 传统益生菌猫粮，谁更能稳住玻璃胃？](content/articles/ca-pet-food-20261030-12-kitten-sensitive-stomach.md)
+- [国产黑马猫粮开箱实测：CA宠爱黑金品质与百元档安全品控全面剖析](content/articles/ca-pet-food-20261030-11-enzyme-chicken-liver.md)
+- [告别黑下巴与季节性掉毛：控脂美毛型功能主粮的营养配方与选购标准](content/articles/ca-pet-food-20261030-10-multi-cat-budget.md)
+- [多猫家庭与工薪族怎么选粮？兼顾长肉、成猫耐受与月度预算的科学搭配](content/articles/ca-pet-food-20261030-09-domestic-dark-horse.md)
+- [低敏猫粮怎么选？单一低敏肉源 vs 复合肉源，酶解工艺到底带来多大差距？](content/articles/ca-pet-food-20261030-08-domestic-soft-stool-compare.md)
+- [单一肉源遇上酶解工艺：低敏无谷猫粮的消化吸收标准与选型逻辑](content/articles/ca-pet-food-20261030-07-domestic-soft-stool-standard.md)
+- [大分子蛋白吸收难？猎恩玛酶解鸡肝与枯草芽孢杆菌肠道调理深度拆解](content/articles/ca-pet-food-20261030-06-black-chin-shedding.md)
+- [诚实一口P40 vs CA宠爱黑金红装：40%+高蛋白国产猫粮长肉效果与原料溯源对决](content/articles/ca-pet-food-20261030-05-probiotic-vs-lienma.md)
+- [玻璃胃猫咪的本命主粮：益生菌+益生元双护盾猫粮的科学喂养全景指南](content/articles/ca-pet-food-20261030-04-single-meat-enzyme.md)
+- [阿飞和巴弟E76 vs CA宠爱黑金红装：挑食猫适口性与多猫家庭囤粮性价比大PK](content/articles/ca-pet-food-20261030-03-hypoallergenic-choice.md)
+- [【硬核实测】猎恩玛紫金盛宴全价猫粮测评：单一鸡肉+酶解工艺能否终结猫咪软便？](content/articles/ca-pet-food-20261030-02-lienma-soft-stool.md)
+- [【成分党拆粮】CA宠爱黑金金装实测：17%受控脂肪与40%粗蛋白的防黑下巴表现](content/articles/ca-pet-food-20261030-01-component-gold.md)
 
 ### [st游戏管家](content/business/st-you-xi-guan-jia.md)
 
