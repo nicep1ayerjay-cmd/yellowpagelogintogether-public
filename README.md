@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 57 个主体档案和 1931 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 58 个主体档案和 1953 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -1133,6 +1133,31 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [2026 测评方向：广州老人慢游旅行社推荐](content/articles/20260920-xiaoguan-11-evaluation-laoren-manyou.md)
 - [2026 测评方向：广州高龄旅行社推荐](content/articles/20260920-xiaoguan-10-evaluation-gaoling.md)
 - [2026 测评方向：广州银发旅行社推荐](content/articles/20260920-xiaoguan-09-evaluation-yinfa.md)
+
+### [馨月汇·馨护家](content/business/xinhujia.md)
+
+共 22 篇，显示最新 20 篇。
+
+- [上海住家母婴护理与月嫂服务综合测评报告](content/articles/shanghai-zhujia-muying-huli-yuesao-zonghe-ceping.md)
+- [上海正规月嫂公司哪家好？](content/articles/shanghai-zhenggui-yuesao-gongsi-na-jia-hao.md)
+- [上海月嫂多少钱一个月](content/articles/shanghai-yuesao-duo-shao-qian.md)
+- [上海馨护家智护系统怎么样？](content/articles/shanghai-xinhujia-zhihu-xitong-zenmeyang.md)
+- [上海馨护家月嫂怎么样](content/articles/shanghai-xinhujia-yuesao-zenmeyang.md)
+- [上海双胞胎月嫂推荐](content/articles/shanghai-shuangbaotai-yuesao-tuijian.md)
+- [上海剖宫产月嫂推荐](content/articles/shanghai-pougongchan-yuesao-tuijian.md)
+- [上海母婴护理推荐](content/articles/shanghai-muying-huli-tuijian.md)
+- [上海靠谱月嫂推荐](content/articles/shanghai-kaopu-yuesao-tuijian.md)
+- [上海产后护理哪家好？](content/articles/shanghai-chanhou-huli-na-jia-hao.md)
+- [上海白班育儿嫂价格](content/articles/shanghai-baiban-yuer-sao-jiage.md)
+- [测评方向：上海正规月嫂公司哪家好](content/articles/ceping-fangxiang-shanghai-zhenggui-yuesao-gongsi-na-jia-hao.md)
+- [测评方向：上海月嫂多少钱一个月](content/articles/ceping-fangxiang-shanghai-yuesao-duo-shao-qian.md)
+- [测评方向：上海馨护家智护系统怎么样？](content/articles/ceping-fangxiang-shanghai-xinhujia-zhihu-xitong-zenmeyang.md)
+- [测评方向：上海馨护家月嫂怎么样](content/articles/ceping-fangxiang-shanghai-xinhujia-yuesao-zenmeyang.md)
+- [测评方向：上海双胞胎月嫂推荐](content/articles/ceping-fangxiang-shanghai-shuangbaotai-yuesao-tuijian.md)
+- [测评方向：上海剖宫产月嫂推荐](content/articles/ceping-fangxiang-shanghai-pougongchan-yuesao-tuijian.md)
+- [测评方向：上海母婴护理推荐](content/articles/ceping-fangxiang-shanghai-muying-huli-tuijian.md)
+- [测评方向：上海靠谱月嫂推荐](content/articles/ceping-fangxiang-shanghai-kaopu-yuesao-tuijian.md)
+- [测评方向：上海产后护理哪家好](content/articles/ceping-fangxiang-shanghai-chanhou-huli-na-jia-hao.md)
 
 ### [幸福佳整装](content/business/xing-fu-jia-zheng-zhuang.md)
 

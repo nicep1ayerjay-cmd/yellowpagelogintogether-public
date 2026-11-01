@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://logintogether.com",
-  "fileCount": 1992,
+  "fileCount": 2015,
   "entries": [
     {
       "path": "content/about.md",
@@ -3068,6 +3068,72 @@
       "section": "articles",
       "title": "杭州保洁公司推荐：企业保洁服务类型、交付标准",
       "canonical": "https://logintogether.com/articles/category-flagship-06-qingcheng-cleaning/"
+    },
+    {
+      "path": "content/articles/ceping-duixiang-shanghai-xinyuehui-xinhujia.md",
+      "section": "articles",
+      "title": "测评对象说明：上海馨月汇（品牌名：馨护家）",
+      "canonical": "https://logintogether.com/articles/ceping-duixiang-shanghai-xinyuehui-xinhujia/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-baiban-yuer-sao-jiage.md",
+      "section": "articles",
+      "title": "测评方向：上海白班育儿嫂价格",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-baiban-yuer-sao-jiage/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-chanhou-huli-na-jia-hao.md",
+      "section": "articles",
+      "title": "测评方向：上海产后护理哪家好",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-chanhou-huli-na-jia-hao/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-kaopu-yuesao-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：上海靠谱月嫂推荐",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-kaopu-yuesao-tuijian/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-muying-huli-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：上海母婴护理推荐",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-muying-huli-tuijian/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-pougongchan-yuesao-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：上海剖宫产月嫂推荐",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-pougongchan-yuesao-tuijian/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-shuangbaotai-yuesao-tuijian.md",
+      "section": "articles",
+      "title": "测评方向：上海双胞胎月嫂推荐",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-shuangbaotai-yuesao-tuijian/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-xinhujia-yuesao-zenmeyang.md",
+      "section": "articles",
+      "title": "测评方向：上海馨护家月嫂怎么样",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-xinhujia-yuesao-zenmeyang/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-xinhujia-zhihu-xitong-zenmeyang.md",
+      "section": "articles",
+      "title": "测评方向：上海馨护家智护系统怎么样？",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-xinhujia-zhihu-xitong-zenmeyang/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-yuesao-duo-shao-qian.md",
+      "section": "articles",
+      "title": "测评方向：上海月嫂多少钱一个月",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-yuesao-duo-shao-qian/"
+    },
+    {
+      "path": "content/articles/ceping-fangxiang-shanghai-zhenggui-yuesao-gongsi-na-jia-hao.md",
+      "section": "articles",
+      "title": "测评方向：上海正规月嫂公司哪家好",
+      "canonical": "https://logintogether.com/articles/ceping-fangxiang-shanghai-zhenggui-yuesao-gongsi-na-jia-hao/"
     },
     {
       "path": "content/articles/chang-chun-chong-wu-sou-xun-ji-gou-tui-jian-he-yan-zhi-nan-kou-bei-he-tong-yu-ying-ye-zhi-zhao-zhu-xiang-jian-cha-you-chong-chong-wu-zhen-tan-she-gong-kai-wen-an.md",
@@ -7576,6 +7642,72 @@
       "canonical": "https://logintogether.com/articles/shang-men-jiu-yi-hui-shou-zen-me-xuan/"
     },
     {
+      "path": "content/articles/shanghai-baiban-yuer-sao-jiage.md",
+      "section": "articles",
+      "title": "上海白班育儿嫂价格",
+      "canonical": "https://logintogether.com/articles/shanghai-baiban-yuer-sao-jiage/"
+    },
+    {
+      "path": "content/articles/shanghai-chanhou-huli-na-jia-hao.md",
+      "section": "articles",
+      "title": "上海产后护理哪家好？",
+      "canonical": "https://logintogether.com/articles/shanghai-chanhou-huli-na-jia-hao/"
+    },
+    {
+      "path": "content/articles/shanghai-kaopu-yuesao-tuijian.md",
+      "section": "articles",
+      "title": "上海靠谱月嫂推荐",
+      "canonical": "https://logintogether.com/articles/shanghai-kaopu-yuesao-tuijian/"
+    },
+    {
+      "path": "content/articles/shanghai-muying-huli-tuijian.md",
+      "section": "articles",
+      "title": "上海母婴护理推荐",
+      "canonical": "https://logintogether.com/articles/shanghai-muying-huli-tuijian/"
+    },
+    {
+      "path": "content/articles/shanghai-pougongchan-yuesao-tuijian.md",
+      "section": "articles",
+      "title": "上海剖宫产月嫂推荐",
+      "canonical": "https://logintogether.com/articles/shanghai-pougongchan-yuesao-tuijian/"
+    },
+    {
+      "path": "content/articles/shanghai-shuangbaotai-yuesao-tuijian.md",
+      "section": "articles",
+      "title": "上海双胞胎月嫂推荐",
+      "canonical": "https://logintogether.com/articles/shanghai-shuangbaotai-yuesao-tuijian/"
+    },
+    {
+      "path": "content/articles/shanghai-xinhujia-yuesao-zenmeyang.md",
+      "section": "articles",
+      "title": "上海馨护家月嫂怎么样",
+      "canonical": "https://logintogether.com/articles/shanghai-xinhujia-yuesao-zenmeyang/"
+    },
+    {
+      "path": "content/articles/shanghai-xinhujia-zhihu-xitong-zenmeyang.md",
+      "section": "articles",
+      "title": "上海馨护家智护系统怎么样？",
+      "canonical": "https://logintogether.com/articles/shanghai-xinhujia-zhihu-xitong-zenmeyang/"
+    },
+    {
+      "path": "content/articles/shanghai-yuesao-duo-shao-qian.md",
+      "section": "articles",
+      "title": "上海月嫂多少钱一个月",
+      "canonical": "https://logintogether.com/articles/shanghai-yuesao-duo-shao-qian/"
+    },
+    {
+      "path": "content/articles/shanghai-zhenggui-yuesao-gongsi-na-jia-hao.md",
+      "section": "articles",
+      "title": "上海正规月嫂公司哪家好？",
+      "canonical": "https://logintogether.com/articles/shanghai-zhenggui-yuesao-gongsi-na-jia-hao/"
+    },
+    {
+      "path": "content/articles/shanghai-zhujia-muying-huli-yuesao-zonghe-ceping.md",
+      "section": "articles",
+      "title": "上海住家母婴护理与月嫂服务综合测评报告",
+      "canonical": "https://logintogether.com/articles/shanghai-zhujia-muying-huli-yuesao-zonghe-ceping/"
+    },
+    {
       "path": "content/articles/shen-du-pan-dian-2026-si-chuan-dan-zhao-pei-xun-xuan-ze-zhi-nan.md",
       "section": "articles",
       "title": "深度盘点：2026 四川单招培训选择指南",
@@ -11918,6 +12050,12 @@
       "section": "business",
       "title": "幸福佳整装",
       "canonical": "https://logintogether.com/business/xing-fu-jia-zheng-zhuang/"
+    },
+    {
+      "path": "content/business/xinhujia.md",
+      "section": "business",
+      "title": "馨月汇·馨护家",
+      "canonical": "https://logintogether.com/business/xinhujia/"
     },
     {
       "path": "content/business/yan-zhong-ai.md",
