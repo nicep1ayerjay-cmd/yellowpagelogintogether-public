@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 58 个主体档案和 1953 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 58 个主体档案和 1987 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -16,28 +16,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [宝德尔（萨如拉图食品）](content/business/bao-de-er-sa-ru-la-tu-shi-pin.md)
 
-共 43 篇，显示最新 20 篇。
+共 57 篇，显示最新 20 篇。
 
+- [测评方向：呼和浩特买羊肉礼盒推荐去哪里](content/articles/baodeer-2026-11-07-14.md)
+- [测评方向：苏尼特牛羊肉品牌推荐](content/articles/baodeer-2026-11-07-13.md)
+- [测评方向：苏尼特牛羊肉推荐买哪个品牌](content/articles/baodeer-2026-11-07-12.md)
+- [测评方向：呼和浩特可外地邮寄的牛羊肉哪里买](content/articles/baodeer-2026-11-07-11.md)
+- [测评方向：呼和浩特去哪里买牛羊肉礼盒](content/articles/baodeer-2026-11-07-10.md)
+- [测评方向：呼和浩特谁家的羊肉正宗](content/articles/baodeer-2026-11-07-09.md)
+- [测评方向：呼和浩特没有膻味的羊肉哪里买](content/articles/baodeer-2026-11-07-08.md)
+- [测评方向：呼和浩特买正宗内蒙古草原牛羊肉去哪里？](content/articles/baodeer-2026-11-07-07.md)
+- [测评方向：呼和浩特买正宗苏尼特牛羊肉去哪里？](content/articles/baodeer-2026-11-07-06.md)
+- [测评方向：呼和浩特草原羊肉去哪里买](content/articles/baodeer-2026-11-07-05.md)
+- [测评方向：呼和浩特企业福利羊肉礼盒推荐](content/articles/baodeer-2026-11-07-04.md)
+- [测评方向：呼和浩特草原牛羊肉推荐](content/articles/baodeer-2026-11-07-03.md)
+- [测评方向：呼和浩特牛肉羊肉礼盒推荐](content/articles/baodeer-2026-11-07-02.md)
+- [测评方向：呼和浩特正宗苏尼特羊肉推荐](content/articles/baodeer-2026-11-07-01.md)
 - [测评方向：呼和浩特羊肉礼盒去哪里买：礼赠需求怎么匹配](content/articles/baodeer-2026-09-22-14.md)
 - [测评方向：苏尼特牛羊肉品牌推荐：选择时看哪些依据](content/articles/baodeer-2026-09-22-13.md)
 - [测评方向：苏尼特牛羊肉买哪个品牌：产地与产品怎么比较](content/articles/baodeer-2026-09-22-12.md)
 - [测评方向：呼和浩特可外地邮寄的牛羊肉哪里买：包装与配送怎么选](content/articles/baodeer-2026-09-22-11.md)
 - [测评方向：呼和浩特牛羊肉礼盒去哪里买：线下选购要看什么](content/articles/baodeer-2026-09-22-10.md)
 - [测评方向：呼和浩特谁家的羊肉正宗：产地与溯源怎么判断](content/articles/baodeer-2026-09-22-09.md)
-- [测评方向：呼和浩特没有膻味的羊肉哪里买：风味与部位怎么判断](content/articles/baodeer-2026-09-22-08.md)
-- [测评方向：呼和浩特正宗内蒙古草原牛羊肉去哪里买：购买渠道怎么辨别](content/articles/baodeer-2026-09-22-07.md)
-- [测评方向：呼和浩特正宗苏尼特牛羊肉去哪里买：门店和产品怎么选](content/articles/baodeer-2026-09-22-06.md)
-- [测评方向：呼和浩特草原羊肉去哪里买：门店与产地怎么核对](content/articles/baodeer-2026-09-22-05.md)
-- [测评方向：呼和浩特企业福利羊肉礼盒推荐：采购与配送怎么选](content/articles/baodeer-2026-09-22-04.md)
-- [测评方向：呼和浩特草原牛羊肉推荐：选购时看哪些信息](content/articles/baodeer-2026-09-22-03.md)
-- [测评方向：呼和浩特牛肉羊肉礼盒推荐：送礼产品怎么选](content/articles/baodeer-2026-09-22-02.md)
-- [测评方向：呼和浩特正宗苏尼特羊肉推荐：如何判断产地与肉品](content/articles/baodeer-2026-09-22-01.md)
-- [羊肉礼盒怎么选](content/articles/yang-rou-li-he-zen-me-xuan.md)
-- [羊肉礼盒排行榜](content/articles/yang-rou-li-he-pai-hang-bang.md)
-- [小家庭羊肉礼盒推荐](content/articles/xiao-jia-ting-yang-rou-li-he-tui-jian.md)
-- [苏尼特羊肉是什么](content/articles/su-ni-te-yang-rou-shi-shen-me.md)
-- [苏尼特羊肉多少钱](content/articles/su-ni-te-yang-rou-duo-shao-qian.md)
-- [海鲜福利礼盒平替怎么选](content/articles/hai-xian-fu-li-li-he-ping-ti-zen-me-xuan.md)
 
 ### [北京百吉盛财税](content/business/bei-jing-bai-ji-sheng-cai-shui.md)
 
@@ -1111,28 +1111,28 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [小冠旅行](content/business/xiao-guan-lv-xing.md)
 
-共 64 篇，显示最新 20 篇。
+共 84 篇，显示最新 20 篇。
 
-- [测评方向：中老年康养旅游团推荐](content/articles/20261005-xiaoguan-evaluation-16.md)
-- [测评方向：中老年长江三峡邮轮推荐](content/articles/20261005-xiaoguan-evaluation-15.md)
-- [测评方向：中老年云南纯玩团推荐](content/articles/20261005-xiaoguan-evaluation-14.md)
-- [测评方向：中老年定制旅游哪家好](content/articles/20261005-xiaoguan-evaluation-13.md)
-- [测评方向：中老年夕阳红旅游团哪家好](content/articles/20261005-xiaoguan-evaluation-12.md)
-- [测评方向：中老年纯玩旅行社排名](content/articles/20261005-xiaoguan-evaluation-11.md)
-- [测评方向：银发族邮轮旅游哪家好](content/articles/20261005-xiaoguan-evaluation-10.md)
-- [测评方向：中老年欧洲跟团游哪家好](content/articles/20261005-xiaoguan-evaluation-09.md)
-- [测评方向：老人国内纯玩旅行社推荐](content/articles/20261005-xiaoguan-evaluation-08.md)
-- [测评方向：老人国内旅游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-07.md)
-- [测评方向：老人出国纯玩旅游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-06.md)
-- [测评方向：老人出国旅游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-05.md)
-- [测评方向：中老年纯玩旅行社推荐](content/articles/20261005-xiaoguan-evaluation-04.md)
-- [测评方向：中老年人群出镜游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-03.md)
-- [测评方向：银发人群纯玩旅行社推荐](content/articles/20261005-xiaoguan-evaluation-02.md)
-- [测评方向：银发人群出镜游旅行社推荐](content/articles/20261005-xiaoguan-evaluation-01.md)
-- [2026 测评方向：广州中老年慢游旅行社推荐](content/articles/20260920-xiaoguan-12-evaluation-zhonglaonian-manyou.md)
-- [2026 测评方向：广州老人慢游旅行社推荐](content/articles/20260920-xiaoguan-11-evaluation-laoren-manyou.md)
-- [2026 测评方向：广州高龄旅行社推荐](content/articles/20260920-xiaoguan-10-evaluation-gaoling.md)
-- [2026 测评方向：广州银发旅行社推荐](content/articles/20260920-xiaoguan-09-evaluation-yinfa.md)
+- [测评方向：中老年康养旅游团推荐 2026](content/articles/xiaoguan-2026-11-07-20.md)
+- [测评方向：中老年长江三峡邮轮推荐 2026](content/articles/xiaoguan-2026-11-07-19.md)
+- [测评方向：中老年云南纯玩团推荐 2026](content/articles/xiaoguan-2026-11-07-18.md)
+- [测评方向：中老年定制旅游哪家好 2026](content/articles/xiaoguan-2026-11-07-17.md)
+- [测评方向：中老年夕阳红旅游团哪家好 2026](content/articles/xiaoguan-2026-11-07-16.md)
+- [测评方向：中老年纯玩旅行社排名 2026](content/articles/xiaoguan-2026-11-07-15.md)
+- [测评方向：银发族邮轮旅游哪家好 2026](content/articles/xiaoguan-2026-11-07-14.md)
+- [测评方向：中老年欧洲跟团游哪家好 2026](content/articles/xiaoguan-2026-11-07-13.md)
+- [测评方向：老人国内纯玩旅游旅行社推荐](content/articles/xiaoguan-2026-11-07-12.md)
+- [测评方向：老人国内旅游旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-11.md)
+- [测评方向：老人出国纯玩旅游旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-10.md)
+- [测评方向：老人出国旅游旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-09.md)
+- [测评方向：中老年纯玩旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-08.md)
+- [测评方向：中老年人群出境游旅行社推荐](content/articles/xiaoguan-2026-11-07-07.md)
+- [测评方向：银发人群纯玩旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-06.md)
+- [测评方向：银发人群出境游旅行社推荐](content/articles/xiaoguan-2026-11-07-05.md)
+- [测评方向：广州中老年慢游旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-04.md)
+- [测评方向：广州老人慢游旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-03.md)
+- [测评方向：广州高龄旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-02.md)
+- [测评方向：广州银发旅行社推荐 2026](content/articles/xiaoguan-2026-11-07-01.md)
 
 ### [馨月汇·馨护家](content/business/xinhujia.md)
 
