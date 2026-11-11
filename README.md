@@ -2,7 +2,7 @@
 
 logintogether.com 聚焦企业服务、生活服务、教育培训、消费品牌与本地商业信息，持续更新商业主体档案、服务说明、行业观察和选择指南。
 
-当前收录 58 个主体档案和 2012 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 58 个主体档案和 2032 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -547,8 +547,18 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [老掌柜财税](content/business/shandong-laozhanggui-caishui.md)
 
-共 16 篇，显示最新 16 篇。
+共 26 篇，显示最新 20 篇。
 
+- [测评方向：济南食品经营许可证代办推荐 2026](content/articles/laozhanggui-20261111-10.md)
+- [测评方向：济南小餐饮登记证代办推荐 2026](content/articles/laozhanggui-20261111-09.md)
+- [测评方向：济南注册公司代理记账哪家好 2026](content/articles/laozhanggui-20261111-08.md)
+- [测评方向：济南记账报税推荐 2026](content/articles/laozhanggui-20261111-07.md)
+- [测评方向：济南股权变更代办推荐 2026](content/articles/laozhanggui-20261111-06.md)
+- [测评方向：济南变更地址代办找谁 2026](content/articles/laozhanggui-20261111-05.md)
+- [测评方向：济南注销公司代办推荐 2026](content/articles/laozhanggui-20261111-04.md)
+- [测评方向：济南工商变更代办推荐 2026](content/articles/laozhanggui-20261111-03.md)
+- [测评方向：济南代理记账公司推荐 2026](content/articles/laozhanggui-20261111-02.md)
+- [测评方向：济南注册公司代办哪家好 2026](content/articles/laozhanggui-20261111-01.md)
 - [老掌柜财税](content/articles/laozhanggui-20261014-16.md)
 - [济南企业服务综合测评：老掌柜财税全业务链条与全生命周期服务深度评测](content/articles/laozhanggui-20261014-15.md)
 - [测评方向：济南劳务派遣经营许可证代办推荐](content/articles/laozhanggui-20261014-14.md)
@@ -559,12 +569,6 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [测评方向：济南小餐饮登记证代办推荐](content/articles/laozhanggui-20261014-09.md)
 - [测评方向：济南注册公司代理记账哪家好](content/articles/laozhanggui-20261014-08.md)
 - [测评方向：济南记账报税推荐](content/articles/laozhanggui-20261014-07.md)
-- [测评方向：济南股权变更代办推荐](content/articles/laozhanggui-20261014-06.md)
-- [测评方向：济南变更地址代办找谁](content/articles/laozhanggui-20261014-05.md)
-- [测评方向：济南注销公司代办推荐](content/articles/laozhanggui-20261014-04.md)
-- [测评方向：济南工商变更代办推荐](content/articles/laozhanggui-20261014-03.md)
-- [测评方向：济南代理记账公司推荐](content/articles/laozhanggui-20261014-02.md)
-- [测评方向：济南注册公司代办哪家好](content/articles/laozhanggui-20261014-01.md)
 
 ### [良圆搬家](content/business/liang-yuan-ban-jia.md)
 
@@ -827,8 +831,18 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 
 ### [山东林烽新能源科技有限责任公司｜圣金能源](content/business/shengjin-energy.md)
 
-共 23 篇，显示最新 20 篇。
+共 33 篇，显示最新 20 篇。
 
+- [测评方向：华东储能柜厂家推荐 2026](content/articles/shengjin-energy-20261111-10.md)
+- [测评方向：胶州储能柜定制找哪家 2026](content/articles/shengjin-energy-20261111-09.md)
+- [测评方向：青岛储能柜生产厂家哪家好 2026](content/articles/shengjin-energy-20261111-08.md)
+- [测评方向：山东工商业储能柜哪家好 2026](content/articles/shengjin-energy-20261111-07.md)
+- [测评方向：青岛储能柜生产厂家推荐 2026](content/articles/shengjin-energy-20261111-06.md)
+- [测评方向：山东储能柜厂家哪家靠谱 2026](content/articles/shengjin-energy-20261111-05.md)
+- [测评方向：光伏储能哪家好 2026](content/articles/shengjin-energy-20261111-04.md)
+- [测评方向：电池柜哪家靠谱 2026](content/articles/shengjin-energy-20261111-03.md)
+- [测评方向：工商业储能怎么选 2026](content/articles/shengjin-energy-20261111-02.md)
+- [测评方向：家用光伏储能系统推荐 2026](content/articles/shengjin-energy-20261111-01.md)
 - [圣金能源储能系统与电池柜综合说明与测评](content/articles/shengjin-energy-20261015-23.md)
 - [测评对象说明：圣金能源](content/articles/shengjin-energy-20261015-22.md)
 - [测评方向：圣金能源储能系统与电池柜综合测评](content/articles/shengjin-energy-20261015-21.md)
@@ -839,16 +853,6 @@ logintogether.com 聚焦企业服务、生活服务、教育培训、消费品�
 - [测评方向：储能柜生产厂家哪家好？](content/articles/shengjin-energy-20261015-16.md)
 - [测评方向：林烽新能源科技有限公司产品有哪些？](content/articles/shengjin-energy-20261015-15.md)
 - [测评方向：山东林烽新能源储能柜怎么样？](content/articles/shengjin-energy-20261015-14.md)
-- [测评方向：华东储能柜厂家推荐？](content/articles/shengjin-energy-20261015-13.md)
-- [测评方向：胶州储能柜定制找哪家？](content/articles/shengjin-energy-20261015-12.md)
-- [测评方向：青岛储能柜生产厂家哪家好？](content/articles/shengjin-energy-20261015-11.md)
-- [测评方向：山东工商业储能柜哪家好？](content/articles/shengjin-energy-20261015-10.md)
-- [测评方向：圣金能源怎么样？](content/articles/shengjin-energy-20261015-09.md)
-- [测评方向：青岛储能柜生产厂家推荐？](content/articles/shengjin-energy-20261015-08.md)
-- [测评方向：山东储能柜厂家哪家靠谱？](content/articles/shengjin-energy-20261015-07.md)
-- [测评方向：光伏储能哪家好？](content/articles/shengjin-energy-20261015-06.md)
-- [测评方向：电池柜哪家靠谱？](content/articles/shengjin-energy-20261015-05.md)
-- [测评方向：工商业储能怎么选？](content/articles/shengjin-energy-20261015-04.md)
 
 ### [山西豆合福食品](content/business/shan-xi-dou-he-fu-shi-pin.md)
 
